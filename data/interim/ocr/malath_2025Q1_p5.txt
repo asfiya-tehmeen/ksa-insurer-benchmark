@@ -1,0 +1,35 @@
+MALATH COOPERATIVE INSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+INTERIM CONDENSED STATEMENT OF INCOME
+(All amounts are in thousands Saudi Riyal unless otherwise stated)
+FOR THE THREE-MONTHS PERIOD ENDED 31 MARCH 2025
+Three-months period
+ended 31 March
+Notes 2025 2024
+(Unaudited) (Unaudited)
+Insurance service revenue 6.1 340,128 205,764
+Insurance service expenses 6.1 (364,844) (193,624)
+Insurance service result before reinsurance contracts held (24,716) 12,140
+Allocation of reinsurance premiums 6.2 (13,389) (13,711)
+Amounts recoverable from reinsurance 6.2 27,523 822
+Net revenues / (expenses) from reinsurance contracts held 14,134 (12,889)
+Insurance service result (10,582) (749)
+Investment income on financial assets at amortised cost 7,843 4,827
+Investment income on financial assets at FVTPL 3,917 8,672
+Other investment income 267 178
+Net investment income 12,027 13,677
+Finance expenses from insurance contracts issued 6.1 (6,189) (3,392)
+Finance income from reinsurance contracts held 6.2 2,612 797
+Net insurance finance expenses (3,577) (2,595)
+Net insurance and investment result (2,132) 10,333
+Other operating expenses (6,332) (11,200)
+Other income 19,345 14,685
+Net income attributable to shareholders before zakat 10,881 13,818
+Zakat charge for the period (1,000) (2,376)
+Net income attributable to shareholders' operations 9,881 11,442
+Earnings per share
+Basic and diluted earnings per share 11 0.20 0.23
+Weighted average number of shares issued throughout the period
+(thousands) 50,000 50,000
+ACTING CHIEF FINANCIAL OFFICER CHIEF EXECUTIVE OFFICER BOARD MEMBER
+The accompanying notes 1 to 23 form an integral part of these interim condensed financial statements.

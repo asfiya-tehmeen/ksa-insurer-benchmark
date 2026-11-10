@@ -1,0 +1,38 @@
+THE COMPANY FOR COOPERATIVE INSURANCE
+(A SAUDI JOINT STOCK COMPANY)
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF INCOME
+FOR THE THREE MONTHS PERIOD ENDED MARCH 31. 2025
+Three months Three months
+period ended period ended
+Notes March 31, 2025 March 31, 2024
+(Unaudited) (Unaudited)
+000,
+Insurance revenue 5,121,418 4,385,961
+Insurance service expenses 13 (4,383,675) (4,040,280)
+Insurance service result before reinsurance contracts held 737,743 345,681
+Allocation of reinsurance premiums (575,200) (490,825)
+Amounts recoverable from reinsurers for incurred claims 127,618 400,855
+Net expenses from reinsurance contracts held 14 (447,582) (89,970)
+Insurance service result 290,161 255,711
+Revenue from non-insurance services 17,813
+Commission income 142,006 139,739
+Dividend income 764 1,295
+Net fair value gains on financial assets at fair value through profit or loss 40,453 23,351
+Share of profit from equity accounted investments, net 11,965 6,502
+Investment return 195,188 170,887
+Allowance for expected credit losses on financial assets 7.1 (3,692) (114,452)
+Finance expense from insurance contracts issued (73,515) (72,240)
+Finance income from reinsurance contracts held 31,178 41,369
+Net insurance finance expense (42,337) (30,871)
+Net insurance financial result 457,133 281,275
+Other operating expenses (162,844) (58,000)
+Other income, net 69 6,807
+Net profit for the period before Zakat 294,358 230,082
+Zakat charge for the period (32,666) (33,390)
+Net profit for the period after Zakat 261,692 196,692
+Basic and diluted earnings per share (in ) 1.76 1.31
+Weighted average number of shares in issue 149,876,882 150,000,000
+Abdulaziz M. AlSedeas Abdulaziz Alshaikh Othman Y. Alkassabi
+Board Director Chief Financial Officer Chief Executive Officer
+The accompanying notes 1 to 22 form an integral part of these interim condensed consolidated financial statements.
+- 3 -

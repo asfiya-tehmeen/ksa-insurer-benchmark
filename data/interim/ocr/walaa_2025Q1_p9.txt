@@ -1,0 +1,30 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(ASAUDIJOINTSTOCKCOMPANY)
+INTERIMCONDENSEDSTATEMENTOFCASHFLOWS(CONTINUED)
+FORTHETHREE-MONTHPERIODENDEDMARCH31,2025
+Three-month period ended
+March 31, 2025 March 31, 2024
+Notes (Unaudited) (Unaudited)
+SAR"000"
+CASHFLOWSFROMINVESTINGACTIVITIES
+Financial assetsforunit linked insurance contracts,net 11,668 (14,399)
+Purchase of investmentsmeasured atFVTPL (35,402) (36,530)
+Disposals of investments measured at FVTPL 44,589 41,081
+Purchaseof investmentsmeasuredatFvOCl (5,625)
+Purchase of investments measured at amortized cost (80,000) (96,312)
+Disposals of investments measured atamortized cost 89,839 10,032
+Commissionincomereceivedoninvestmentsanddeposits 24,570 18,929
+Dividendsreceived on investments 3,467 3,674
+Additions to short termdeposits (84,099) (39,834)
+Additions to long term deposits (966) (10)
+Additions to intangible assets, net 12 (1,230) (4,507)
+(Additions) / Disposals of property and equipment, net 13 (8,055) 13,603
+Net cash used in investing activities (35,649) (109,898)
+CASHFLOWSFROMFINANCINGACTIVITIES
+Lease liabilities paid (5,160) (5,160)
+Net cash used in financing activities (5,160) (5,160)
+Net change in cash and cash equivalents (398,305) (258,499)
+Cash and cash equivalents, beginning of the period 962,268 512,411
+Cash and cash equivalents, end of the period 563,963 253,912
+Chief Fihangial Officer ChiefExecutive Officer Boardmember
+The accompanying notes 1 to 27 form an integral part of these interim condensed financial statements.

@@ -1,0 +1,47 @@
+{
+  "q2dax": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"message\":\"DAX query executed successfully, returned 7 rows in 85ms\",\"operation\":\"Execute\",\"data\":{\"rowCount\":7,\"isTruncated\":false,\"columns\":[{\"name\":\"dim_insurer[insurer_name]\",\"dataType\":\"String\",\"isNullable\":true,\"ordinal\":0},{\"name\":\"[LR]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":1},{\"name\":\"[Revenue]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":2},{\"name\":\"[Share]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":3},{\"name\":\"[PeerShare]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":4},{\"name\":\"[YoY]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":5},{\"name\":\"[QoQ]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":6},{\"name\":\"[Margin]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":7},{\"name\":\"[Rank]\",\"dataType\":\"String\",\"isNullable\":true,\"ordinal\":8}],\"rows\":[{\"dim_insurer[insurer_name]\":\"Al Rajhi Takaful\",\"[LR]\":1.009557332746677,\"[Revenue]\":400007,\"[Share]\":0.2898156225275537,\"[PeerShare]\":0.039690640684040344,\"[YoY]\":-23.419394874494625,\"[QoQ]\":-8.464094007306944,\"[Margin]\":-0.009557332746676934,\"[Rank]\":\"5 of 7\"},{\"dim_insurer[insurer_name]\":\"Bupa Arabia\",\"[LR]\":0.9509904856461913,\"[Revenue]\":4715717,\"[Share]\":1,\"[PeerShare]\":0.4679163839998317,\"[YoY]\":3.659955137323845,\"[QoQ]\":3.938705290013045,\"[Margin]\":0.04857755459031999,\"[Rank]\":\"3 of 7\"},{\"dim_insurer[insurer_name]\":\"GIG (Saudi)\",\"[LR]\":1.0769454904070288,\"[Revenue]\":89232,\"[Share]\":0.2484263159506555,\"[PeerShare]\":0.008854033178215101,\"[YoY]\":-0.505243416112533,\"[QoQ]\":1.8111288554411686,\"[Margin]\":-0.07956786802940649,\"[Rank]\":\"6 of 7\"},{\"dim_insurer[insurer_name]\":\"Malath\",\"[LR]\":0.8481062139636181,\"[Revenue]\":143258,\"[Share]\":0.3914677101579173,\"[PeerShare]\":0.014214755749560012,\"[YoY]\":-16.121198738138965,\"[QoQ]\":-5.4094259102252735,\"[Margin]\":0.15197755099191668,\"[Rank]\":\"1 of 7\"},{\"dim_insurer[insurer_name]\":\"Medgulf\",\"[LR]\":0.9608999448697704,\"[Revenue]\":801738,\"[Share]\":0.7810853229752124,\"[PeerShare]\":0.07955234503581472,\"[YoY]\":-1.8291099645553865,\"[QoQ]\":-4.07021724481087,\"[Margin]\":0.03782657177282354,\"[Rank]\":\"4 of 7\"},{\"dim_insurer[insurer_name]\":\"Tawuniya\",\"[LR]\":0.8855429452063016,\"[Revenue]\":3832302,\"[Share]\":0.7333225792933448,\"[PeerShare]\":0.3802596496429542,\"[YoY]\":2.5929462235955825,\"[QoQ]\":-3.981112401557352,\"[Margin]\":0.10643863662101787,\"[Rank]\":\"2 of 7\"},{\"dim_insurer[insurer_name]\":\"Walaa\",\"[LR]\":1.38521879726699,\"[Revenue]\":95865,\"[Share]\":0.139579477965618,\"[PeerShare]\":0.009512191709583902,\"[YoY]\":13.67467055113163,\"[QoQ]\":27.71796020567423,\"[Margin]\":-0.38229802326187867,\"[Rank]\":\"7 of 7\"}],\"executionTimeMs\":85}}"
+      }
+    ],
+    "isError": false
+  },
+  "fy": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"message\":\"DAX query executed successfully, returned 7 rows in 26ms\",\"operation\":\"Execute\",\"data\":{\"rowCount\":7,\"isTruncated\":false,\"columns\":[{\"name\":\"dim_insurer[insurer_name]\",\"dataType\":\"String\",\"isNullable\":true,\"ordinal\":0},{\"name\":\"[LR]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":1},{\"name\":\"[Combined]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":2}],\"rows\":[{\"dim_insurer[insurer_name]\":\"Al Rajhi Takaful\",\"[LR]\":1.1779018886541328,\"[Combined]\":0.8883471060430952},{\"dim_insurer[insurer_name]\":\"Bupa Arabia\",\"[LR]\":0.940996271196497,\"[Combined]\":0.9602569773572016},{\"dim_insurer[insurer_name]\":\"GIG (Saudi)\",\"[LR]\":1.0911040207789295,\"[Combined]\":0.8740598870805407},{\"dim_insurer[insurer_name]\":\"Malath\",\"[LR]\":1.0014324902070095,\"[Combined]\":0.9964253311738231},{\"dim_insurer[insurer_name]\":\"Medgulf\",\"[LR]\":0.995622852780252,\"[Combined]\":null},{\"dim_insurer[insurer_name]\":\"Tawuniya\",\"[LR]\":null,\"[Combined]\":null},{\"dim_insurer[insurer_name]\":\"Walaa\",\"[LR]\":1.108853636558122,\"[Combined]\":0.6051827135245681}],\"executionTimeMs\":26}}"
+      }
+    ],
+    "isError": false
+  },
+  "integrity": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"message\":\"DAX query executed successfully, returned 1 rows in 32ms\",\"operation\":\"Execute\",\"data\":{\"rowCount\":1,\"isTruncated\":false,\"columns\":[{\"name\":\"[Facts]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":0},{\"name\":\"[Insurers]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":1},{\"name\":\"[Periods]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":2},{\"name\":\"[BlankInsurerMembers]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":3},{\"name\":\"[BlankPeriodMembers]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":4},{\"name\":\"[TawuniyaQoQ]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":5},{\"name\":\"[MedgulfCombinedNonBlankPeriods]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":6}],\"rows\":[{\"[Facts]\":138,\"[Insurers]\":7,\"[Periods]\":15,\"[BlankInsurerMembers]\":null,\"[BlankPeriodMembers]\":null,\"[TawuniyaQoQ]\":null,\"[MedgulfCombinedNonBlankPeriods]\":null}],\"executionTimeMs\":32}}"
+      }
+    ],
+    "isError": false
+  },
+  "pool": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"message\":\"DAX query executed successfully, returned 1 rows in 24ms\",\"operation\":\"Execute\",\"data\":{\"rowCount\":1,\"isTruncated\":false,\"columns\":[{\"name\":\"[Pooled]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":0},{\"name\":\"[ArithmeticMean]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":1},{\"name\":\"[TwoInsurers]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":2}],\"rows\":[{\"[Pooled]\":0.9329995011966022,\"[ArithmeticMean]\":1.0167516014437967,\"[TwoInsurers]\":0.9216486299340233}],\"executionTimeMs\":24}}"
+      }
+    ],
+    "isError": false
+  },
+  "shares": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"message\":\"DAX query executed successfully, returned 15 rows in 18ms\",\"operation\":\"Execute\",\"data\":{\"rowCount\":15,\"isTruncated\":false,\"columns\":[{\"name\":\"dim_period[period_label]\",\"dataType\":\"String\",\"isNullable\":true,\"ordinal\":0},{\"name\":\"[PeerShareSum]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":1}],\"rows\":[{\"dim_period[period_label]\":\"FY2023\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2023 Q1\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2023 Q2\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2023 Q3\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2023 Q4\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"FY2024\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2024 Q1\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2024 Q2\",\"[PeerShareSum]\":1.0000000000000002},{\"dim_period[period_label]\":\"2024 Q3\",\"[PeerShareSum]\":1.0000000000000002},{\"dim_period[period_label]\":\"2024 Q4\",\"[PeerShareSum]\":0.9999999999999999},{\"dim_period[period_label]\":\"FY2025\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2025 Q1\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2025 Q2\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2025 Q3\",\"[PeerShareSum]\":1},{\"dim_period[period_label]\":\"2025 Q4\",\"[PeerShareSum]\":1}],\"executionTimeMs\":18}}"
+      }
+    ],
+    "isError": false
+  }
+}

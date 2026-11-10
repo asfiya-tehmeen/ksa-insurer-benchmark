@@ -1,0 +1,39 @@
+insurer,period,file,income_statement_pages,url,downloaded_on,notes
+Milliman (24 insurers),2022FY-2025FY,6_4_26_KSA-Industry-update-2025.pdf,23 (Ex1 revenue); 24 (Ex2 GWP); 25 (Ex3 net income); 26 (Ex4 assets/equity),,2026-11-09,PDF page index; printed page = index-2. Ratios only in charts (pp.9-11)
+Tawuniya,2022FY-2024FY,Tawuniya_2024_Annual_Report_EN.pdf,41,https://tawuniya.com/docs/2024_Annual_Report_EN.pdf,2026-11-09,CFO review p.41: reported loss/expense/combined ratio 2022-24 (cross-check only). Duplicate copy: 2024_Annual_Report_EN.pdf
+Al Rajhi Takaful,2025FY,alrajhitakaful_2025FY.pdf,9,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Al Rajhi Takaful,2025Q1,alrajhitakaful_2025Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Al Rajhi Takaful,2025Q2,alrajhitakaful_2025Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Al Rajhi Takaful,2025Q3,alrajhitakaful_2025Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Bupa Arabia,2024FY,bupa_2024FY.pdf,9,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Bupa Arabia,2024Q1,bupa_2024Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Bupa Arabia,2024Q2,bupa_2024Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Bupa Arabia,2024Q3,bupa_2024Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Bupa Arabia,2025Q1,bupa_2025Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Bupa Arabia,2025Q2,bupa_2025Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+GIG (Saudi),2025FY,gig_2025FY.pdf,9,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+GIG (Saudi),2025Q1,gig_2025Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+GIG (Saudi),2025Q2,gig_2025Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+GIG (Saudi),2025Q3,gig_2025Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Malath,2025FY,malath_2025FY.pdf,10,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Malath,2025Q1,malath_2025Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Malath,2025Q2,malath_2025Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Malath,2025Q3,malath_2025Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Medgulf,2025FY,medgulf_2025FY.pdf,12,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Medgulf,2025Q1,medgulf_2025Q1.pdf,7,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Medgulf,2025Q2,medgulf_2025Q2.pdf,7,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Medgulf,2025Q3,medgulf_2025Q3.pdf,7,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Tawuniya,2024Q3,tawuniya_2024Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Tawuniya,2025Q1,tawuniya_2025Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,text layer
+Tawuniya,2025Q2,tawuniya_2025Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Tawuniya,2025Q3,tawuniya_2025Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Walaa,2025FY,walaa_2025FY.pdf,9,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Walaa,2025Q1,walaa_2025Q1.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Walaa,2025Q2,walaa_2025Q2.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Walaa,2025Q3,walaa_2025Q3.pdf,5,Saudi Exchange / company IR (manual download),2026-11-09,statement page read by OCR (scanned/glitched text layer) - verified by waterfall + Milliman checks
+Dubai Insurance,2025Q1,data/raw_uae/dubaiinsurance_2025Q1/dubaiinsurance_2025Q1.pdf,segment note 24-25,feeds.dfm.ae,2026-11-10,UAE screening only; 'Life and medical' combined segment
+Dubai Insurance,2026Q1,data/raw_uae/dubaiinsurance_2026Q1/dubaiinsurance_2026Q1.pdf,segment note 24-25,feeds.dfm.ae,2026-11-10,UAE screening only
+Dubai Insurance,2026Q2,data/raw_uae/dubaiinsurance_2026Q2/dubaiinsurance_2026Q2.pdf,segment note 25-28,feeds.dfm.ae,2026-11-10,UAE screening only
+Dubai Insurance,2025FY,data/raw_uae/dubaiinsurance_2025IR/dubaiinsurance_2025IR.pdf,segment note 41,feeds.dfm.ae,2026-11-10,English Integrated Report; the audited FS PDF (dubaiinsurance_2025FY) is Arabic-only
+Sukoon Insurance,2026Q2,data/raw_uae/sukoon_2026Q2/sukoon_2026Q2.pdf,segment note 25,feeds.dfm.ae,2026-11-10,UAE screening only; medical inside general insurance
+AMAN Insurance,2025Q3,data/raw_uae/aman_2025Q3/aman_2025Q3.pdf,segment note 33-34,feeds.dfm.ae,2026-11-10,"UAE screening only; takaful, no class split"

@@ -1,0 +1,139 @@
+insurer_key,period_key,segment,revenue,service_expenses,reinsurance_net,pool_surplus,service_result,other_operating_expenses,is_derived,source_files,source_pages
+alrajhitakaful,20240,medical,1491856.0,1757260.0,0.0,0.0,-265404.0,,False,alrajhitakaful_2025FY.pdf,97
+alrajhitakaful,20241,medical,280303.0,301870.0,0.0,0.0,-21567.0,,False,alrajhitakaful_2025Q1.pdf,50
+alrajhitakaful,20242,medical,302382.0,376088.0,0.0,0.0,-73706.0,,False,alrajhitakaful_2025Q2.pdf,45
+alrajhitakaful,20243,medical,437536.0,532651.0,0.0,0.0,-95115.0,,False,alrajhitakaful_2025Q3.pdf,45
+alrajhitakaful,20244,medical,471635.0,546651.0,0.0,0.0,-75016.0,,True,alrajhitakaful_2025FY.pdf minus alrajhitakaful_2025Q3.pdf,97/43
+alrajhitakaful,20250,medical,1617655.0,1599169.0,0.0,0.0,18486.0,,False,alrajhitakaful_2025FY.pdf,96
+alrajhitakaful,20251,medical,385368.0,421669.0,0.0,0.0,-36301.0,,False,alrajhitakaful_2025Q1.pdf,49
+alrajhitakaful,20252,medical,400007.0,403830.0,0.0,0.0,-3823.0,,False,alrajhitakaful_2025Q2.pdf,44
+alrajhitakaful,20253,medical,410302.0,446343.0,0.0,0.0,-36041.0,,False,alrajhitakaful_2025Q3.pdf,44
+alrajhitakaful,20254,medical,421978.0,327326.0,0.0,0.0,94652.0,,True,alrajhitakaful_2025FY.pdf minus alrajhitakaful_2025Q3.pdf,96/42
+alrajhitakaful,20240,total,5391459.0,4663337.0,-506130.0,0.0,221992.0,126150.0,False,alrajhitakaful_2025FY.pdf,97
+alrajhitakaful,20241,total,1302714.0,868008.0,-321477.0,0.0,113229.0,32209.0,False,alrajhitakaful_2025Q1.pdf,50
+alrajhitakaful,20242,total,1343174.0,1166744.0,-126562.0,0.0,49868.0,33847.0,False,alrajhitakaful_2025Q2.pdf,45
+alrajhitakaful,20243,total,1409514.0,1339959.0,-1022.0,0.0,68533.0,34257.0,False,alrajhitakaful_2025Q3.pdf,45
+alrajhitakaful,20244,total,1336057.0,1288626.0,-57069.0,0.0,-9638.0,,True,alrajhitakaful_2025FY.pdf minus alrajhitakaful_2025Q3.pdf,97/43
+alrajhitakaful,20250,total,5322128.0,4518812.0,-313914.0,0.0,489402.0,160683.0,False,alrajhitakaful_2025FY.pdf,96
+alrajhitakaful,20251,total,1205906.0,1039750.0,-75410.0,0.0,90746.0,36571.0,False,alrajhitakaful_2025Q1.pdf,49
+alrajhitakaful,20252,total,1380212.0,1162618.0,-87335.0,0.0,130259.0,38156.0,False,alrajhitakaful_2025Q2.pdf,44
+alrajhitakaful,20253,total,1358501.0,1199841.0,-86627.0,0.0,72033.0,32358.0,False,alrajhitakaful_2025Q3.pdf,44
+alrajhitakaful,20254,total,1377509.0,1116603.0,-64542.0,0.0,196364.0,,True,alrajhitakaful_2025FY.pdf minus alrajhitakaful_2025Q3.pdf,96/42
+bupa,20230,medical,15887715.0,14994432.0,-28246.0,0.0,865037.0,,False,bupa_2024FY.pdf,9
+bupa,20231,medical,3750413.0,3578399.0,-3531.0,0.0,168483.0,,False,bupa_2024Q1.pdf,5
+bupa,20232,medical,3885014.0,3501613.0,-11378.0,0.0,372023.0,,False,bupa_2024Q2.pdf,5
+bupa,20233,medical,4092577.0,3828209.0,-7319.0,0.0,257049.0,,False,bupa_2024Q3.pdf,5
+bupa,20234,medical,4159711.0,4086211.0,-6018.0,0.0,67482.0,,True,bupa_2024FY.pdf minus bupa_2024Q3.pdf,9/5
+bupa,20240,medical,18101517.0,17033460.0,-69961.0,0.0,998096.0,,False,bupa_2024FY.pdf,9
+bupa,20241,medical,4374058.0,4035579.0,-16878.0,0.0,321601.0,,False,bupa_2024Q1.pdf,5
+bupa,20242,medical,4562414.0,4171830.0,-13257.0,0.0,377327.0,,False,bupa_2024Q2.pdf,5
+bupa,20243,medical,4552195.0,4193499.0,-14911.0,0.0,343785.0,,False,bupa_2024Q3.pdf,5
+bupa,20244,medical,4612850.0,4632552.0,-24915.0,0.0,-44617.0,,True,bupa_2024FY.pdf minus bupa_2024Q3.pdf,9/5
+bupa,20251,medical,4409764.0,4019956.0,-38622.0,0.0,351186.0,,False,bupa_2025Q1.pdf,5
+bupa,20252,medical,4715717.0,4484602.0,-2037.0,0.0,229078.0,,False,bupa_2025Q2.pdf,5
+bupa,20230,total,15887715.0,14994432.0,-28246.0,0.0,865037.0,316813.0,False,bupa_2024FY.pdf,9
+bupa,20231,total,3750413.0,3578399.0,-3531.0,0.0,168483.0,57153.0,False,bupa_2024Q1.pdf,5
+bupa,20232,total,3885014.0,3501613.0,-11378.0,0.0,372023.0,76527.0,False,bupa_2024Q2.pdf,5
+bupa,20233,total,4092577.0,3828209.0,-7319.0,0.0,257049.0,82435.0,False,bupa_2024Q3.pdf,5
+bupa,20234,total,4159711.0,4086211.0,-6018.0,0.0,67482.0,,True,bupa_2024FY.pdf minus bupa_2024Q3.pdf,9/5
+bupa,20240,total,18101517.0,17033460.0,-69961.0,0.0,998096.0,348648.0,False,bupa_2024FY.pdf,9
+bupa,20241,total,4374058.0,4035579.0,-16878.0,0.0,321601.0,75731.0,False,bupa_2024Q1.pdf,5
+bupa,20242,total,4562414.0,4171830.0,-13257.0,0.0,377327.0,108369.0,False,bupa_2024Q2.pdf,5
+bupa,20243,total,4552195.0,4193499.0,-14911.0,0.0,343785.0,109387.0,False,bupa_2024Q3.pdf,5
+bupa,20244,total,4612850.0,4632552.0,-24915.0,0.0,-44617.0,,True,bupa_2024FY.pdf minus bupa_2024Q3.pdf,9/5
+bupa,20251,total,4409764.0,4019956.0,-38622.0,0.0,351186.0,106420.0,False,bupa_2025Q1.pdf,5
+bupa,20252,total,4715717.0,4484602.0,-2037.0,0.0,229078.0,95322.0,False,bupa_2025Q2.pdf,5
+gig,20240,medical,428126.0,467130.0,4470.0,0.0,-34534.0,,False,gig_2025FY.pdf,63
+gig,20241,medical,111682.0,109843.0,-3308.0,0.0,-1469.0,,False,gig_2025Q1.pdf,25
+gig,20242,medical,108893.0,117822.0,-852.0,0.0,-9781.0,,False,gig_2025Q2.pdf,26
+gig,20243,medical,106524.0,127741.0,8648.0,0.0,-12569.0,,False,gig_2025Q3.pdf,26
+gig,20244,medical,101027.0,111724.0,-18.0,0.0,-10715.0,,True,gig_2025FY.pdf minus gig_2025Q3.pdf,63/26
+gig,20250,medical,330947.0,340247.0,-5285.0,0.0,-14585.0,,False,gig_2025FY.pdf,63
+gig,20251,medical,99211.0,105048.0,-1475.0,0.0,-7312.0,,False,gig_2025Q1.pdf,25
+gig,20252,medical,89232.0,96098.0,-234.0,0.0,-7100.0,,False,gig_2025Q2.pdf,26
+gig,20253,medical,74887.0,67986.0,-1694.0,0.0,5207.0,,False,gig_2025Q3.pdf,26
+gig,20254,medical,67617.0,71115.0,-1882.0,0.0,-5380.0,,True,gig_2025FY.pdf minus gig_2025Q3.pdf,63/26
+gig,20240,total,1463521.0,1230826.0,-127287.0,0.0,105408.0,48379.0,False,gig_2025FY.pdf,63
+gig,20241,total,362419.0,297301.0,-65273.0,0.0,-155.0,13043.0,False,gig_2025Q1.pdf,25
+gig,20242,total,359358.0,293170.0,-19305.0,0.0,46883.0,9738.0,False,gig_2025Q2.pdf,26
+gig,20243,total,379270.0,303158.0,-56973.0,0.0,19139.0,12407.0,False,gig_2025Q3.pdf,26
+gig,20244,total,362474.0,337197.0,14264.0,0.0,39541.0,,True,gig_2025FY.pdf minus gig_2025Q3.pdf,63/26
+gig,20250,total,1503755.0,1386441.0,232.0,0.0,117546.0,46112.0,False,gig_2025FY.pdf,63
+gig,20251,total,367569.0,271156.0,-49145.0,0.0,47268.0,12409.0,False,gig_2025Q1.pdf,25
+gig,20252,total,359189.0,313406.0,-23518.0,0.0,22265.0,9247.0,False,gig_2025Q2.pdf,26
+gig,20253,total,381958.0,298421.0,-63757.0,0.0,19780.0,8992.0,False,gig_2025Q3.pdf,26
+gig,20254,total,395039.0,503458.0,136652.0,0.0,28233.0,,True,gig_2025FY.pdf minus gig_2025Q3.pdf,63/26
+malath,20240,medical,541714.0,542490.0,-43.0,0.0,-819.0,,False,malath_2025FY.pdf,81
+malath,20241,medical,114581.0,121624.0,1866.0,0.0,-5177.0,,False,malath_2025Q1.pdf,59
+malath,20242,medical,128029.0,129222.0,-68.0,0.0,-1261.0,,False,malath_2025Q2.pdf,60
+malath,20243,medical,144011.0,151821.0,-3674.0,0.0,-11484.0,,False,malath_2025Q3.pdf,60
+malath,20244,medical,155093.0,139823.0,1833.0,0.0,17103.0,,True,malath_2025FY.pdf minus malath_2025Q3.pdf,81/62
+malath,20250,medical,567322.0,506030.0,2144.0,0.0,63436.0,,False,malath_2025FY.pdf,80
+malath,20251,medical,153467.0,138458.0,-573.0,0.0,14436.0,,False,malath_2025Q1.pdf,58
+malath,20252,medical,143258.0,121498.0,12.0,0.0,21772.0,,False,malath_2025Q2.pdf,59
+malath,20253,medical,138704.0,132071.0,3278.0,0.0,9911.0,,False,malath_2025Q3.pdf,59
+malath,20254,medical,131893.0,114003.0,-573.0,0.0,17317.0,,True,malath_2025FY.pdf minus malath_2025Q3.pdf,80/61
+malath,20240,total,1010723.0,976030.0,-38892.0,0.0,-4199.0,31080.0,False,malath_2025FY.pdf,81
+malath,20241,total,205764.0,193624.0,-12889.0,0.0,-749.0,11200.0,False,malath_2025Q1.pdf,59
+malath,20242,total,225959.0,224477.0,-1042.0,0.0,440.0,6410.0,False,malath_2025Q2.pdf,60
+malath,20243,total,269741.0,259244.0,-12493.0,0.0,-1996.0,7573.0,False,malath_2025Q3.pdf,60
+malath,20244,total,309259.0,298685.0,-12468.0,0.0,-1894.0,,True,malath_2025FY.pdf minus malath_2025Q3.pdf,81/62
+malath,20250,total,1445363.0,1477561.0,19137.0,0.0,-13061.0,34895.0,False,malath_2025FY.pdf,80
+malath,20251,total,340128.0,364844.0,14134.0,0.0,-10582.0,6332.0,False,malath_2025Q1.pdf,58
+malath,20252,total,365951.0,342934.0,-19184.0,0.0,3833.0,7138.0,False,malath_2025Q2.pdf,59
+malath,20253,total,366080.0,421136.0,24434.0,0.0,-30622.0,3731.0,False,malath_2025Q3.pdf,59
+malath,20254,total,373204.0,348646.0,-247.0,0.0,24311.0,,True,malath_2025FY.pdf minus malath_2025Q3.pdf,80/61
+medgulf,20240,medical,2829240.0,2816856.0,-37506.0,0.0,-25122.0,,False,medgulf_2025FY.pdf,53
+medgulf,20241,medical,655262.0,680205.0,-8844.0,0.0,-33787.0,,False,medgulf_2025Q1.pdf,46
+medgulf,20242,medical,698209.0,683680.0,-25731.0,0.0,-11202.0,,False,medgulf_2025Q2.pdf,46
+medgulf,20243,medical,747577.0,711528.0,125.0,0.0,36174.0,,False,medgulf_2025Q3.pdf,45
+medgulf,20244,medical,728192.0,741443.0,-3056.0,0.0,-16307.0,,True,medgulf_2025FY.pdf minus medgulf_2025Q3.pdf,53/46
+medgulf,20250,medical,3247280.0,3187074.0,171.0,0.0,60377.0,,False,medgulf_2025FY.pdf,53
+medgulf,20251,medical,792701.0,793971.0,346.0,0.0,-924.0,,False,medgulf_2025Q1.pdf,46
+medgulf,20252,medical,801738.0,770390.0,-1021.0,0.0,30327.0,,False,medgulf_2025Q2.pdf,46
+medgulf,20253,medical,793578.0,773192.0,-7.0,0.0,20379.0,,False,medgulf_2025Q3.pdf,45
+medgulf,20254,medical,859263.0,849521.0,853.0,0.0,10595.0,,True,medgulf_2025FY.pdf minus medgulf_2025Q3.pdf,53/46
+medgulf,20240,total,3551790.0,3170901.0,-361077.0,5582.0,25394.0,,False,medgulf_2025FY.pdf,53
+medgulf,20241,total,833625.0,750073.0,-60456.0,0.0,23096.0,,False,medgulf_2025Q1.pdf,46
+medgulf,20242,total,875908.0,721344.0,-164117.0,1274.0,-8279.0,,False,medgulf_2025Q2.pdf,46
+medgulf,20243,total,900418.0,824008.0,-57510.0,0.0,18900.0,,False,medgulf_2025Q3.pdf,45
+medgulf,20244,total,941839.0,875476.0,-78994.0,4308.0,-8323.0,,True,medgulf_2025FY.pdf minus medgulf_2025Q3.pdf,53/46
+medgulf,20250,total,4320236.0,4030938.0,-238664.0,4143.0,54777.0,,False,medgulf_2025FY.pdf,53
+medgulf,20251,total,1000343.0,917055.0,-73212.0,0.0,10076.0,,False,medgulf_2025Q1.pdf,46
+medgulf,20252,total,1026441.0,959500.0,-46676.0,1907.0,22172.0,,False,medgulf_2025Q2.pdf,46
+medgulf,20253,total,1026880.0,959688.0,-60158.0,2019.0,9053.0,,False,medgulf_2025Q3.pdf,45
+medgulf,20254,total,1266572.0,1194695.0,-58618.0,217.0,13476.0,,True,medgulf_2025FY.pdf minus medgulf_2025Q3.pdf,53/46
+tawuniya,20233,medical,2934243.0,2807494.0,-10524.0,0.0,116225.0,,False,tawuniya_2024Q3.pdf,73
+tawuniya,20241,medical,3092099.0,2945811.0,-18753.0,0.0,127535.0,,False,tawuniya_2025Q1.pdf,71
+tawuniya,20242,medical,3069205.0,2638330.0,-27219.0,0.0,403656.0,,False,tawuniya_2025Q2.pdf,74
+tawuniya,20243,medical,3341549.0,3182559.0,-14049.0,0.0,144941.0,,False,tawuniya_2024Q3.pdf,72
+tawuniya,20251,medical,3855602.0,3567797.0,-55509.0,0.0,232296.0,,False,tawuniya_2025Q1.pdf,69
+tawuniya,20252,medical,3832302.0,3393668.0,-30729.0,0.0,407905.0,,False,tawuniya_2025Q2.pdf,72
+tawuniya,20253,medical,3969857.0,3663975.0,-30188.0,0.0,275694.0,,False,tawuniya_2025Q3.pdf,72
+tawuniya,20233,total,3960790.0,3527641.0,-287111.0,0.0,146038.0,107926.0,False,tawuniya_2024Q3.pdf,73
+tawuniya,20241,total,4385961.0,4040280.0,-89970.0,0.0,255711.0,58000.0,False,tawuniya_2025Q1.pdf,71
+tawuniya,20242,total,4412228.0,3418944.0,-501334.0,0.0,491950.0,139656.0,False,tawuniya_2025Q2.pdf,74
+tawuniya,20243,total,4696243.0,3937885.0,-548223.0,0.0,210135.0,160276.0,False,tawuniya_2024Q3.pdf,72
+tawuniya,20251,total,5121418.0,4383675.0,-447582.0,0.0,290161.0,162844.0,False,tawuniya_2025Q1.pdf,69
+tawuniya,20252,total,5225943.0,4121522.0,-619382.0,0.0,485039.0,200712.0,False,tawuniya_2025Q2.pdf,72
+tawuniya,20253,total,5405366.0,4437837.0,-625860.0,0.0,341669.0,246704.0,False,tawuniya_2025Q3.pdf,72
+walaa,20240,medical,617012.0,684176.0,529.0,0.0,-66635.0,,False,walaa_2025FY.pdf,102
+walaa,20241,medical,162393.0,194289.0,-942.0,0.0,-32838.0,,False,walaa_2025Q1.pdf,63
+walaa,20242,medical,172458.0,215309.0,1026.0,0.0,-41825.0,,False,walaa_2025Q2.pdf,70
+walaa,20243,medical,148766.0,159062.0,159.0,0.0,-10137.0,,False,walaa_2025Q3.pdf,70
+walaa,20244,medical,133395.0,115516.0,286.0,0.0,18165.0,,True,walaa_2025FY.pdf minus walaa_2025Q3.pdf,102/72
+walaa,20250,medical,389522.0,458002.0,2030.0,0.0,-66450.0,,False,walaa_2025FY.pdf,101
+walaa,20251,medical,114912.0,127327.0,-39.0,0.0,-12454.0,,False,walaa_2025Q1.pdf,62
+walaa,20252,medical,95865.0,132794.0,280.0,0.0,-36649.0,,False,walaa_2025Q2.pdf,69
+walaa,20253,medical,84537.0,94750.0,558.0,0.0,-9655.0,,False,walaa_2025Q3.pdf,69
+walaa,20254,medical,94208.0,103131.0,1231.0,0.0,-7692.0,,True,walaa_2025FY.pdf minus walaa_2025Q3.pdf,101/71
+walaa,20240,total,3344580.0,1988804.0,-1391857.0,0.0,-36081.0,35278.0,False,walaa_2025FY.pdf,102
+walaa,20241,total,767073.0,516023.0,-265399.0,0.0,-14349.0,6006.0,False,walaa_2025Q1.pdf,63
+walaa,20242,total,796176.0,478655.0,-311736.0,0.0,5785.0,13148.0,False,walaa_2025Q2.pdf,70
+walaa,20243,total,897433.0,449688.0,-452743.0,0.0,-4998.0,8332.0,False,walaa_2025Q3.pdf,70
+walaa,20244,total,883898.0,544438.0,-361979.0,0.0,-22519.0,,True,walaa_2025FY.pdf minus walaa_2025Q3.pdf,102/72
+walaa,20250,total,3104295.0,2713084.0,-551577.0,0.0,-160366.0,50262.0,False,walaa_2025FY.pdf,101
+walaa,20251,total,788219.0,430594.0,-406006.0,0.0,-48381.0,9091.0,False,walaa_2025Q1.pdf,62
+walaa,20252,total,686813.0,423054.0,-315885.0,0.0,-52126.0,11911.0,False,walaa_2025Q2.pdf,69
+walaa,20253,total,874200.0,461196.0,-440338.0,0.0,-27334.0,10306.0,False,walaa_2025Q3.pdf,69
+walaa,20254,total,755063.0,1398240.0,610652.0,0.0,-32525.0,,True,walaa_2025FY.pdf minus walaa_2025Q3.pdf,101/71

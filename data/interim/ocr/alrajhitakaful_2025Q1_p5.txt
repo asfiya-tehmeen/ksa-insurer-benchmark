@@ -1,0 +1,32 @@
+Al Rajhi Company for Cooperative Insurance
+(A Saudi Joint Stock Company)
+Statement of income (SOl)
+For the three-month period ended 31st March 2025
+Three-month Period Ended
+31st March 2025 31st March 2024
+Un-Audited Un-Audited
+Note Saudi Riyal ()in 000
+Insurancerevenue 13.1 1,205,906 1,302,714
+Insurance service expenses 13.2 (1,039,750) (868,008)
+Insurance service result before retakaful /reinsurance contracts held 166,156 434,706
+Allocation of retakaful/ reinsurance contributions 13.3 (95,319) (270,666)
+Amounts recoverable from retakaful / reinsurance for incurred claims 13.3 19,909 (50,811)
+Net (expense) from retakaful / reinsurance contracts held (75,410) (321,477)
+Insuranceservice result 90,746 113,229
+Finance expense from insurance contracts issued 14.1 (14,366) (128,274)
+Finance income from retakaful / reinsurance contracts held 14.2 4,031 3,070
+Net insurance finance expenses (10,335) (125,204)
+Net income on financial assets at fair value 29,898 10,846
+Net income on financial assets at amortised cost and short-term deposits 35,106 47,274
+Net fair value (loss) / gain of unit-linked investments 5.4 (12,052) 101,331
+Net investment income 52,952 159,451
+Net insurance and investment result 133,363 147,476
+Other operating expenses 15 (36,571) (32,209)
+Net income attributable to the shareholders before zakat 96,792 115,267
+Provision forzakat (5,995) (3,891)
+Net income attributable to the shareholders after zakat 90,797 111,376
+Earnings per share
+Basic and diluted earning per share () 16 0.91 1.11
+Weighted average number of shares in issue (in thousands ) 16 100,000 100,000
+Nabeel Ali Shoaib Saud Ghonem Bin Ghonem Ibrahim A/wazir
+Member-Board (BoD) Chief Executive Officer (CEO) Chief Financial Officer (CFO)

@@ -1,0 +1,42 @@
+Crowe MOORE
+Crowe Solutions for Professional Consulting El Sayed ElAyouty&Co.
+Member Crowe Global CertifiedPublicAccountants
+AnIndependentMemberFirmofMooreGlobal
+INDEPENDENT AUDITORS' REPORT
+To The Shareholders of
+Walaa Cooperative Insurance Company
+(A Saudi Joint Stock Company)
+Key Audit Matters (Continued...)
+Key audit matter How the key audit matter was addressed in our audit
+Valuation of estimated present value of cashflows for
+incurred claims, risk adjustment for non-financial Evaluated the objectivity, skills, qualifications and
+risk and loss component: competence of the independent external actuary and
+The estimation of the liability for incurred claims and reviewing the terms of the actuary's engagement with
+loss component involves a significant degree of the Company to determine if the scope of their work
+judgement. This entails estimating the present value of was sufficient for audit purposes.
+future cash flows and the risk adjustment for non- Assessed the disclosures relating to this matter in the
+financial risk (forming part of liability for incurred claims) and loss component (forming part of liability for financial statements against the requirements of
+remaining coverage). The risk adjustment for non- IFRSs.
+financial risk is applied to the present value of the
+estimated future cash flows, and reflects the uncertainty about the amount and timing of the cash compensation that the Group requires for bearing the we performed the following: In addition, with the assistance of our actuarial specialists,
+flows from non-financial risk as the Group fulfils its
+obligations under insurance contracts.  Evaluated the Company's actuarial practices and
+provisions established, including the actuarial report
+The present value of future cash flows is based on the issued by management's expert;
+best estimate of the ultimate cost of all claims incurred  Assessed the calculation methods and the models
+not, together with the related claims handling costs. but not settled at the reporting date, whether reported or used;
+The loss component is recognized if at any time during Assessed key actuarial assumptions including loss
+the coverage period, facts and circumstances indicate ratios, claims development factors, mortality rates,
+that a group of contracts is onerous. Such loss lapse rates and discount rates;
+component is remeasured at each reporting date as the
+difference between the amounts of the fulfillments
+cashflows determined under the general measurement Determined if the estimates applied in the current
+model relating to the future service and the carrying and prior year were consistent; and
+amount of the liability for remaining coverage without
+the loss component.
+Developed a point estimate or range based on our
+Accordingly, this complexity arises from calculating the understanding of the Company's business and
+actuarial best estimate and the margin using historical evaluated the differences between management's
+cost inflation and medical trends, as well as the actuarial data which is sensitive to external inputs, such as claims point estimate and our point estimate or range.
+methodology that is applied and the assumptions on
+current and future events.

@@ -1,0 +1,44 @@
+forvis
+mazars PKF Al Bassam
+Professional Consultants Chartered Accountants
+INDEPENDENT AUDITORS'REPORT
+TO THE SHAREHOLDERS OF THE MEDITERRANEAN AND GULF COOPERATIVE
+INSURANCE AND REINSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+Opinion
+We have audited the financial statements of The Mediterranean and Gulf Cooperative Insurance and Reinsurance
+Company - a Saudi Joint Stock Company (the "Company"), which comprise the statement of financial position as at
+31 December 2025, and the statement of income, statement of comprehensive income, statement of changes in equity
+and statement of cash flows for the year then ended, and notes to the financial statements, comprising material
+accounting policy information and other explanatory information.
+In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of
+the Company as at 31 December 2025, and its financial performance and its cash flows for the year then ended in
+accordance with International Financial Reporting Standards ("IFRs") that are endorsed in the Kingdom of Saudi
+Arabia and other standards and pronouncements issued by Saudi Organization for Chartered and Professional
+Accountants ("SOCPA").
+Basis for Opinion
+We conducted our audit in accordance with the International Standards on Auditing (ISAs') that are endorsed in the
+Kingdom of Saudi Arabia. Our responsibilities under those standards are further described in the Auditors'
+accordance with the International Code of Ethics for Professional Accountants that are endorsed in the Kingdom of
+Saudi Arabia that are relevant to our audit of the financial statements and we have fulfilled our other ethical
+responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is
+sufficient and appropriate to provide a basis for our opinion.
+Key Audit Matters
+Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the
+financial statements of the current year. These matters were addressed in the context of our audit of the financial
+statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+Key audit matter How our audit addressed the key audit matter
+Valuation of estimates of present value of cashflows
+and risk adjustments for non-financial risk - insurance
+contract liabilities
+As at 31 December 2025, estimate of present value of cash We performed the following procedures:
+flows and risk adjustments for non-financial risk for insurance Assessed the design and implementation of internal
+contracts issued amounted to SR 1,072.56 million and SR control procedures and their operational
+40.28 million (2024: SR 1,085.08 million and SR 48.36 effectiveness;
+million) respectively, as reported in note 6 to the financial Evaluated and tested the data used in the process of
+statements. valuation of the present value of future cash flows
+("PVFCFs");
+Tested samples of claims case reserves  by
+comparing the estimated amount of the case reserve
+to appropriate documentation, such as reports from
+loss adjusters, reinsurance contracts etc.;

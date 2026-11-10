@@ -1,0 +1,50 @@
+Crowe MOORE
+Crowe Solutions for Professional Consulting El Sayed ElAyouty&Co.
+Member Crowe Global CertifiedPublicAccountants
+AnIndependentMemberFirmofMooreGlobal
+INDEPENDENT AUDITORS' REPORT
+To The Shareholders of
+Walaa Cooperative Insurance Company
+(A Saudi Joint Stock Company)
+Opinion
+We have audited the consolidated financial statements of Walaa Cooperative Insurance Company - a Saudi Joint
+Stock Company ("the Company") and its subsidiary (collectively referred to as the “Group"), which comprise
+the consolidated statement of financial position as at 31 December 2025, the consolidated statement of income, the
+consolidated statement of comprehensive income, the consolidated statement of changes in equity and the
+consolidated statement of cash flows for the year then ended, and notes to the consolidated financial statements,
+comprising material accounting policies and other explanatory information.
+consolidated financial position of the Group as at 31 December 2025, and its consolidated financial performance and
+its consolidated cash flows for the year then ended in accordance with International Financial Reporting Standards
+(IFRSs) that are endorsed in the Kingdom of Saudi Arabia and other standards and pronouncements issued by the
+Saudi Organization for Chartered and Professional Accountants (SOCPA") (collectively referred to as “ International
+Financial Reporting Standards as endorsed in Kingdom of Saudi Arabia).
+Basis for Opinion
+We conducted our audit in accordance with International Standards on Auditing (ISAs) that are endorsed in the
+Kingdom of Saudi Arabia. Our responsibilities under those standards are further described in the “Auditors'
+Responsibilities for the Audit of the Consolidated Financial Statements" section of our report. We are independent of
+the Group in accordance with the International Code of Ethics for Professional Accountants (including International
+Independence Standards) (the Code) that are endorsed in the Kingdom of Saudi Arabia that is relevant to our audit of
+the consolidated financial statements, and we have fulfilled our other ethical responsibilities in accordance with the
+Code's requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our opinion.
+Key Audit Matters
+Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the
+of our audit of the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not
+provide a separate opinion on these matters. Following is the description of the key audit matters and how the key
+audit matter was addressed:
+Key audit matter How the key audit matter was addressed in our audit
+Valuation of estimated present value of cashflows for We performed the following audit procedures:
+incurred claims, risk adjustment for non-financial Assessed the design and implementation of internal
+risk and loss component: control proceduresand their  operational
+As at 31 December 2025, the total valuation of effectiveness;
+estimated present value of cash flows for incurred Evaluated and tested the data used in the process of
+claims, risk adjustment for non-financial risk and for
+loss component amount for insurance contracts issued valuation of the "Present Value of Future Cash
+under PAA amounts to SR 2,070.63 million, SR 106.20 Flows" (PVFCFs);
+million and SR 32.13 million respectively and the total Tested samples of claims reserves by comparing the
+valuation of estimated present value of cash flows for estimated amount of the reserve to appropriate
+and for loss component amount for insurance contracts incurred claims, risk adjustment for non-financial risk documentation, such as reports from loss adjusters,
+issued under GMM-VFA amounts to SR 3.55 million, reinsurance contracts etc.;
+SR 0.21 million and SR 0.71 million respectively, as
+reported in Note 4 to the consolidated financial
+statements.

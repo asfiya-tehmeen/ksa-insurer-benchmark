@@ -1,0 +1,39 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(ASAUDIJOINTSTOCKCOMPANY)
+INTERIMCONDENSEDCONSOLIDATEDSTATEMENTOFCASHFLOWS
+FORTHENINE-MONTHPERIODENDEDSEPTEMBER30,2025
+Nine-month period ended
+September 30,
+2025 2024
+Notes (Unaudited) (Unaudited)
+SAR"000"
+CASHFLOWSFROMOPERATINGACTIVITIES
+Net (loss) / income for the period before zakat and income tax (111,697) 93,402
+Adjustments for non-cash and non-operating items:
+Depreciation of property and equipment 13 5,495 4,161
+Depreciation of right of use assets 10 6,085 5,475
+Amortization of intangible assets 12 9,211 14,878
+Commission income on investments and deposits (66,005) (56,947)
+Dividendsoninvestments (11,692) (13,684)
+Realized loss / (gain) on investments measured at fair value 9.1 6,031 (24,527)
+Unrealized loss / (gain) on investments measured at fair value 9.1 24,456 (24,519)
+Change in expected credit losses on financial assets (14) (7)
+Gains on disposal of property and equipment (20,308)
+Finance cost on lease assets 654 702
+Provisionforend-of-service benefits (EOSB) 5,255 4,567
+Changes in operating assets and liabilities:
+Insurance contract assets for non unit-linked business (20,526)
+Insurance contract liabilities for non unit-linked business 4.1 (168,668) (79,700)
+Insurance contract liabilities for unit-linked business 4.1 (20,263) 8,323
+Reinsurance contract assets for non unit-linked business 4.2 (157,124) (61,830)
+Reinsurance contract assets for unit-linked business 4.2 164 (447)
+Reinsurance contract liabilities for non unit-linked business 4.2 257 6,697
+Reinsurance contract liabilities for unit-linked business 4.2 170
+Prepaid expenses and other assets 14,194 (31,190)
+Accrued expenses and other liabilities 14 (28,705) 71,339
+(492,196) (124,141)
+End-of-service benefits paid (3,171) (4,105)
+Zakat and income tax paid 19 (2,685) (21,400)
+Net cash used in operating activities (498,052) (149,646)
+Chief Financial Officer ChiefExecutiveOfficer Board member
+The accompanying notes 1 to 28 form an integral part of these interim condensed consolidated financial statements.

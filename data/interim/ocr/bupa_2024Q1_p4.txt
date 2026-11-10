@@ -1,0 +1,46 @@
+BUPA ARABIA FOR COOPERATIVE INSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+As at 31 March 2024
+(All amounts in Saudi Riyals thousands unless otherwise stated)
+31 March 31 December
+2024 2023
+Notes (Unaudited) (Audited)
+Assets
+Cash and cash equivalents 1,237,524 1,255,896
+Reinsurance contract assets 5.2 83,199 74,090
+Prepaid expenses and other assets 442,471 475,475
+Term deposits 6,828,275 7,223,011
+Financial assets at amortised cost - net 934,731 587,360
+Financial assets at fair value 4,982,203 4,246,757
+Fixtures, furniture and equipment -- net 64,469 69,879
+Deferred tax asset 14 39,224 38,609
+Right-of-use assets - net 122,602 143,388
+Intangible assets - net 73,662 67,236
+Statutory deposit 149,960 149,960
+Accrued income on statutory deposit 10,931 8,690
+Goodwill 98,000 98,000
+Total assets 15,067,251 14,438,351
+Liabilities
+Accrued and other liabilities 721,160 734,859
+Insurance contract liabilities 5.1 8,604,128 8,267,196
+Lease liability 127,565 166,066
+Due to related parties 13 11,398 40,935
+Provision for end-of-service benefits 190,492 186,487
+Provision for zakat and income tax 14 415,904 358,589
+Accrued income payable to Insurance Authority 10,931 8.690
+Total liabilities 10,081,578 9,762,822
+Equity
+Share capital 15 1,500,000 1,500,000
+Statutory reserve 16 1,352,757 1,352,757
+Share based payments reserve 24,477 48,477
+Shares held under employees share scheme (31,314) (65,115)
+Retained earnings 2,213,144 1,853,721
+Re-measurement reserve for end-of-service benefits (13,698) (13,698)
+Investments fair value reserve (59,693) (613)
+Total equity 4,985,673 4,675,529
+Total liabilities and equity 15,067,251 14,438,351
+Chairman Director and Chief Executive Officer
+Loay Hisham Nazer Tal Hisham Nazer
+Chief Financial Officer
+Hatim Tarig Jamal
+The accompanying notes 1 to 19 form an integral part of these interim condensed consolidated financial statements.

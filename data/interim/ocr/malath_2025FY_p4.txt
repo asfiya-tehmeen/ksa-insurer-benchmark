@@ -1,0 +1,42 @@
+mazars forvIs PKF AlBassam Chartered Accountants
+Professional Consultants
+Independent Auditors' Report on the Audit of the Financial Statements
+To the Shareholders of Malath Cooperative Insurance Company (A Saudi Joint Stock Company)
+(continued)
+Valuation of insurance contract liabilities under premium allocation approach "PAA" and general
+measurement model "GMM"
+Key audit matter How the matter was addressed in our audit
+As at 31 December 2025, total insurance contract Together with our actuarial specialists, on a sample basis,
+liabilities amount to SAR 659.25 million. Of this we:
+amount, insurance contract liabilities relating to • Assessed the design and implementation and tested the
+Allocation Approach ("PAA") amounts to SAR insurance contract measured under Premium management's processes for estimating the liability for operating effectiveness of key controls over
+under general measurement model ("GMM") amounts to SAR 69.29 million. 589.96 million and insurance contract measured controls over the completeness and accuracy of the claims estimate recorded. incurred claims and key assumptions, including
+Actuarial projection methods, based on both . Tested the amounts recorded for claims notified and
+historical information and assumptions on future paid, together with the outstanding claims amount to
+developments, are used to measure the insurance appropriate source documentation to evaluate the
+contract liabilities. For liability for incurred valuation of ultimate expected claims.
+claims, estimates include assumptions related to
+the amount of the expected settlement and claim . Assessed the reasonableness of the actuarial models and
+payment patterns. assumptions used to calculate the present value of the future cash flows of the liability for incurred claims. We
+Accordingly, complexity arises from calculating also analysed the actuarial reserve report issued by the
+the actuarial best estimate using historical data Company's appointed actuary.
+which is sensitive to external inputs, such as . Evaluated the integrity, completeness and accuracy of
+claims cost inflation and medical trends, as well data used by management in their calculation of liability
+as the actuarial methodology that is applied and for incurred claims.
+the assumptions on current and future events.
+· Assessed the adequacy of the disclosures in the
+Due to the inherent estimation uncertainty and financial statements in respect of the insurance contract
+subjectivity involved in the assessment of the liabilities, considering the disclosure requirements of
+valuation of the liability for incurred claims IFRS 17.
+arising from insurance contracts, along with these · Engaged our actuarial specialists to assess the
+amounts being material, we have considered this Company's methods and assumptions and evaluate the
+as a key audit matter. Company's actuarial practices and provisions
+established, including the actuarial report issued by
+Refer to notes 3 for the accounting policy and management's appointed actuary, by performing the
+significant accounting judgements, estimates and following:
+assumptions adopted by the Company, involved in
+the initial recognition and subsequent i. Evaluated whether the Company's actuarial
+measurement of insurance contract liabilities. methodologies were consistent with generally
+Also, refer to note 6 for the movement in insurance accepted actuarial practices and with prior years.
+contract liabilities. We sought sufficient justification for and
+significant difference;

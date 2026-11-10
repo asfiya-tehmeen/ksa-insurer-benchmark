@@ -1,0 +1,39 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "a0123456789012345678",
+  "displayName": "Medical insurer benchmark",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280,
+  "objects": {
+    "background": [
+      {
+        "properties": {
+          "color": {
+            "solid": {
+              "color": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'#fcfcfb'"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "6e795d4d3cc21c5ca834",
+      "target": "b8d1604f87dd2368f7f4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "16b6668d9831a1b8d2d0",
+      "target": "b8d1604f87dd2368f7f4",
+      "type": "NoFilter"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+GULF INSURANCE GROUP
+(A Saudi Joint Stock Company)
+INTERIM CONDENSED STATEMENT OF CASH FLOWS
+(All amounts expressed in Saudi Riyals thousands unless otherwise stated)
+For the nine-month period
+ended 3o September
+Note 2025 2024
+(Unaudited) (Unaudited)
+Cash flows from operating activities
+Total income for the period before zakat and income
+tax 118,945 72,825
+Adjustments for non-cash items:
+Depreciation of furniture and equipment 2,713 4,386
+Depreciation of right-of-use assets 2,444 2,648
+Amortisation of intangible assets 6,039 6,178
+Finance cost on leases 1,016 1,256
+Accretion of discount on financial assets at FvOCI 5,15 (6,449) (5,821)
+Unrealised (gain) loss on financial assets at FVTPL 5,15 (4,408) 3,264
+(Gain) loss on disposal of financial assets at FVOCI 5,15 (21) 328
+Amortisation of premium on financial assets at FvOCI 5,15 1,578 1,661
+Loss on disposal on financial assets at FVTPL 5,15 3,445
+Net impairment credit (reversal of losses) losses on
+financial assets at FVOCI 5,15 (227) 700
+Net finance expense from insurance and reinsurance
+contracts 25,885 31,617
+Employee benefit obligations 3,846 3,497
+Changes in operating assets and liabilities:
+Reinsurance contract assets 6,13 (25,412) 194,511
+Prepaid expenses and other assets (8,917) 18,034
+Accrued income on statutory deposit (639) 2,286
+Accrued expenses and other liabilities (61,785) (33,342)
+Insurance contract liabilities, net 6,13 (48,393) (246,650)
+Due to related parties 3,246
+Accrued income payable on statutory deposit 639 (2,286)
+Cash generated from operations 13,545 55,098
+Employee benefit obligations paid (2,281) (3,060)
+Zakat and income tax paid (19,522) (31,585)
+Interest paid (1,016) (1,256)
+Net cash (outflow) inflow from operating
+activities (9,274) 19,197
+(Continued)

@@ -1,0 +1,37 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(ASAUDIJOINTSTOCKCOMPANY)
+CONSOLIDATEDSTATEMENTOFINCOME
+FORTHEYEARENDEDDECEMBER31,2025
+Notes 2025 2024
+SAR"000"
+Insurance revenue 5.1 3,104,295 3,344,580
+Insurance service expenses 5.2 (2,713,084) (1,988,804)
+Insurance serviceresults before reinsurancecontracts held 391,211 1,355,776
+Allocation of reinsurance premiums 5.3 (1,701,888) (1,574,269)
+Amountsrecoverablefromreinsurersforincurred claims 5.4 1,150,311 182,412
+Net expensesfrom reinsurance contracts held (551,577) (1,391,857)
+Insuranceserviceresults (160,366) (36,081)
+Commission income on investments and deposits 87,382 74,216
+Dividends on investments 14,151 16,983
+Realized gain on investments measured at fair value 10.1 4,765 43,892
+Unrealized (loss)/gain on investments measured atfairvalue 10.1 (58,635) 4,652
+Change in expected credit losses on financial assets (21) (18)
+Net investment income 47,642 139,725
+Financeexpensefrom insurance contracts issued 6.1 (22,008) (21,567)
+Financeincomefromreinsurancecontractsheld 6.2 13,394 12,994
+Net insurancefinanceexpenses (8,614) (8,573)
+Netinsuranceandinvestmentresults (121,338) 95,071
+Other operating income 13,689
+Otherincome 13 2,827 23,260
+Other operating expenses (50,262) (35,278)
+Net (loss)/incomefortheyearbeforezakat&tax (155,084) 83,053
+Zakat charge for the year 21 (20,000) (16,350)
+Income tax charge for the year 21 (2,400)
+Net (loss)/incomefortheyearafterzakat&tax (175,084) 64,303
+-Attributable to minority interest 15 732
+-Attributabletoshareholders (175,816) 64,303
+(Loss) / earning per share (expressed in SAR per share)
+Basic and diluted (loss) / earning per share (1.38) 0.62
+Weighted average number of ordinary outstanding shares (in thousand shares) 127,558 103,064
+Chief Financial Officer Chief Executive Officer Boardmember
+The accompanying notes 1 to 34 form an integral part of these consolidated financial statements.

@@ -1,0 +1,30 @@
+BUPA ARABIA FOR COOPERATIVE INSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF INCOME (unaudited)
+For the three-month period ended 31 March 2025
+(All amounts in Saudi Riyals thousands unless otherwise stated)
+Three-month period ended
+31 March
+Notes 2025 2024
+Insurance revenue 5.1 4,409,764 4,374,058
+Insurance service expense 5.1 (4,019,956) (4,035,579)
+Net expenses from reinsurance contracts held 5.2 (38,622) (16,878)
+Net insurance service result 351,186 321,601
+Commission and income on financial assets at amortized cost 89,988 103,190
+Commission and income on financial assets at fair value 96,170 55,174
+Net impairment reversal / (loss) on financial assets 59 (220)
+Net investment results 186,217 158,144
+Net insurance and investment results 537,403 479,745
+Other operating expenses (106,420) (75,731)
+Other revenue 22,344 22,462
+Other cost (9,629) (10,353)
+Income attributed to the shareholders before zakat and income tax 443,698 416,123
+Zakat charge 14 (22,502) (19,671)
+Income tax charge 14 (40,964) (37,029)
+Net income attributed to the shareholders after zakat and income tax 380,232 359,423
+Basic and diluted earnings per share (expressed in SR per share) 18 2.55 2.40
+Chairman Director and Chief Executive Officer
+Loay Hisham Nazer Tal Hisham Nazer
+Chief Financial Officer
+Hatim Tariq Jamal
+The accompanying notes 1 to 19 form an integral part of these interim condensed consolidated financial statements.

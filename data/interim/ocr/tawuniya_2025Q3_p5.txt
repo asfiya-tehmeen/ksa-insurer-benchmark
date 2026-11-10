@@ -1,0 +1,39 @@
+THE COMPANY FOR COOPERATIVE INSURANCE
+(A SAUDI JOINT STOCK COMPANY)
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF INCOME
+FOR THE THREE AND NINE MONTHS PERIOD ENDED SEPTEMBER 30, 2025
+Three months Three months Nine months Nine months
+period ended period ended period ended period ended
+September 30, September 30, September 30, September 30,
+Notes 2025 2024 2025 2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited)
+000, F
+Insurance revenue 5,405,366 4,696,243 15,752,727 13,494,432
+Insurance service expenses 14 (4,437,837) (3,937,885) (13,013,006) (11,506,972)
+Insurance service result before reinsurance contracts held 967,529 758,358 2,739,721 1,987,460
+Allocation of reinsurance premiums (725,119) (584,723) (1,963,377) (1,613,837)
+Amounts recoverable from reinsurers for incurred claims 99,259 36,500 298,707 518,636
+Net expenses from reinsurance contracts held 15 (625,860) (548,223) (1,664,670) (1,095,201)
+Insurance service result 341,669 210,135 1,075,051 892,259
+Revenue from non-insurance services 1,628 5,027
+Commission income 112,098 158,797 382,846 436,497
+Dividend income 1,556 131 3,080 1,426
+Net fair value gains on financial assets at fair value through profit or loss 63,651 2,672 143,601 35,374
+Share of profit from equity accounted investments, net 8,096 5,170 24,461 19,102
+Investment return 185,401 166,770 553,988 492,399
+(Allowance for) / reversal of expected credit losses on financial assets 7.1 (28,213) 29,682 50,320 (102,669)
+Finance expense from insurance contracts issued (77,025) (105,081) (158,864) (150,638)
+Finance income from reinsurance contracts held 28,754 55,499 68,793 97,715
+Net insurance finance expense (48,271) (49,582) (90,071) (52,923)
+Net insurance financial result 452,214 357,005 1,594,315 1,229,066
+Other operating expenses 16 (246,704) (160,276) (594,632) (357,932)
+Other income, net 6,385 28,651 6,559 76,023
+Net profit for the period before Zakat 211,895 225,380 1,006,242 947,157
+Zakat charge for the period (38,637) (27,823) (103,875) (93,095)
+Net profit for the period after Zakat 173,258 197,557 902,367 854,062
+Basic and diluted earnings per share (in ) 1.16 1.32 6.03 5.70
+Weighted average number of shares in issue 149,541,986 149,951,708 149,656,617 149,951,708
+Abdulaziz M. AiSedeas Abdulaziz Alshaikh Othman Y. Alkassabi
+Board Director Chief Financial Officer Chief Executive Officer
+The accompanying notes 1 to 24 form an integral part of these interim condensed consolidated financial statements.
+- 3 -

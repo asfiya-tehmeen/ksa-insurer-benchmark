@@ -1,0 +1,4 @@
+period,our_insurers,n_insurers,our_revenue,milliman_revenue,coverage_of_sector_revenue,our_loss_ratio,milliman_loss_ratio,our_service_margin,milliman_service_margin,implied_rest_of_sector_loss_ratio
+2025FY,"AlRajhi Takaful, GIG, MALATH, Medgulf, Walaa",5,6153,44648,0.138,0.9899,0.9555,0.01,0.0399,0.95
+2024FY,"AlRajhi Takaful, Bupa, GIG, MALATH, Medgulf, Walaa",6,24009,40357,0.595,0.9705,0.9616,0.0252,0.034,0.9486
+2023FY,Bupa,1,15888,35620,0.446,0.9438,0.9518,0.0544,0.046,0.9583

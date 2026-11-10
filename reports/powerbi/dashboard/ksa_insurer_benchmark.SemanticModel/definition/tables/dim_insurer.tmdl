@@ -1,0 +1,229 @@
+table dim_insurer
+	lineageTag: fd38b9b3-7d84-4667-ba4d-f9dd2758237a
+
+	measure Revenue = SUM ( fact_insurer_period[revenue] )
+		formatString: #,0
+		displayFolder: 02 Base measures
+		lineageTag: 53641d50-5632-46a9-9381-e3d9aa9639e3
+
+	measure 'Service Expenses' = SUM ( fact_insurer_period[service_expenses] )
+		formatString: #,0
+		displayFolder: 02 Base measures
+		lineageTag: 9c8997b4-1ccd-4f81-9a07-b4e35dc21365
+
+	measure 'Net Reinsurance' = SUM ( fact_insurer_period[reinsurance_net] )
+		formatString: #,0
+		displayFolder: 02 Base measures
+		lineageTag: 148ba3b4-8c36-4006-8a96-d4a80598f859
+
+	measure 'Pool Surplus' = SUM ( fact_insurer_period[pool_surplus] )
+		formatString: #,0
+		displayFolder: 02 Base measures
+		lineageTag: e13978bb-0c74-4f04-bd7a-838cd6d4616a
+
+	measure 'Service Result' = SUM ( fact_insurer_period[service_result] )
+		formatString: #,0
+		displayFolder: 02 Base measures
+		lineageTag: 7b36c1bf-d493-489e-b28e-32dc488b1a2f
+
+	measure 'Other Operating Expenses' = SUM ( fact_insurer_period[other_operating_expenses] )
+		formatString: #,0
+		displayFolder: 02 Base measures
+		lineageTag: 7c31ff1d-5e19-41b3-aa7c-f52f6efdf2ed
+
+	measure 'Medical Revenue' = CALCULATE ( [Revenue], fact_insurer_period[segment] = "medical" )
+		formatString: #,0
+		displayFolder: 03 Ratio measures
+		lineageTag: be7c71eb-a374-4f1e-baba-295fab3a69fc
+
+	measure 'Medical Loss Ratio' =
+			DIVIDE (
+			    CALCULATE ( [Service Expenses], fact_insurer_period[segment] = "medical" ),
+			    [Medical Revenue]
+			)
+		formatString: 0.0%
+		displayFolder: 03 Ratio measures
+		lineageTag: b1588079-5358-47fa-9ada-2838bcfed896
+
+	measure 'Medical Net Service Ratio' =
+			DIVIDE (
+			    CALCULATE ( [Service Expenses] - [Net Reinsurance] - [Pool Surplus], fact_insurer_period[segment] = "medical" ),
+			    [Medical Revenue]
+			)
+		formatString: 0.0%
+		displayFolder: 03 Ratio measures
+		lineageTag: a062439d-8d3b-4eb0-b51a-78e3ce5eb911
+
+	measure 'Medical Service Margin' =
+			DIVIDE (
+			    CALCULATE ( [Service Result], fact_insurer_period[segment] = "medical" ),
+			    [Medical Revenue]
+			)
+		formatString: 0.0%
+		displayFolder: 03 Ratio measures
+		lineageTag: ec427ff1-8836-4920-a797-f16444f62ff5
+
+	measure 'Total Combined Ratio' =
+			VAR rev = CALCULATE ( [Revenue], fact_insurer_period[segment] = "total" )
+			VAR opex = CALCULATE ( [Other Operating Expenses], fact_insurer_period[segment] = "total" )
+			RETURN
+			    IF (
+			        ISBLANK ( opex ),
+			        BLANK (),
+			        DIVIDE ( CALCULATE ( [Service Expenses], fact_insurer_period[segment] = "total" ) + opex, rev )
+			    )
+		formatString: 0.0%
+		displayFolder: 03 Ratio measures
+		lineageTag: 23d81838-a7a2-4ac6-861a-264b2bef66ec
+
+	measure 'Total Loss Ratio' =
+			DIVIDE (
+			    CALCULATE ( [Service Expenses], fact_insurer_period[segment] = "total" ),
+			    CALCULATE ( [Revenue], fact_insurer_period[segment] = "total" )
+			)
+		formatString: 0.0%
+		displayFolder: 03 Ratio measures
+		lineageTag: a6d3a544-3d32-45ca-9e76-96236c261709
+
+	measure 'Medical Share of Revenue' = DIVIDE ( [Medical Revenue], CALCULATE ( [Revenue], fact_insurer_period[segment] = "total" ) )
+		formatString: 0.0%
+		displayFolder: 03 Ratio measures
+		lineageTag: 291367e1-d783-4bbc-af65-0a3a4d14d891
+
+	measure 'Medical LR Prior Year' =
+			VAR py = MAX ( dim_period[prior_year_key] )
+			RETURN
+			    CALCULATE ( [Medical Loss Ratio], REMOVEFILTERS ( dim_period ), dim_period[period_key] = py )
+		formatString: 0.0%
+		displayFolder: 04 Change and rank
+		lineageTag: ca68ea44-144d-42f5-9de8-7205de99f995
+
+	measure 'Medical LR YoY (pp)' =
+			VAR cur = [Medical Loss Ratio]
+			VAR py = [Medical LR Prior Year]
+			RETURN IF ( ISBLANK ( cur ) || ISBLANK ( py ), BLANK (), ( cur - py ) * 100 )
+		formatString: +0.0;-0.0
+		displayFolder: 04 Change and rank
+		lineageTag: e8963d7f-3434-40eb-9d82-47d6d35de290
+
+	measure 'Medical LR Prior Quarter' =
+			VAR pq = MAX ( dim_period[prior_period_key] )
+			RETURN
+			    IF ( ISBLANK ( pq ), BLANK (),
+			        CALCULATE ( [Medical Loss Ratio], REMOVEFILTERS ( dim_period ), dim_period[period_key] = pq ) )
+		formatString: 0.0%
+		displayFolder: 04 Change and rank
+		lineageTag: 75fd5adf-eab3-4561-ae61-63507e4a02e1
+
+	measure 'Medical LR QoQ (pp)' =
+			VAR cur = [Medical Loss Ratio]
+			VAR pq = [Medical LR Prior Quarter]
+			RETURN IF ( ISBLANK ( cur ) || ISBLANK ( pq ), BLANK (), ( cur - pq ) * 100 )
+		formatString: +0.0;-0.0
+		displayFolder: 04 Change and rank
+		lineageTag: e94c056c-940b-4b4d-be19-ecea498a353d
+
+	measure 'Medical LR Rank' =
+			IF (
+			    ISBLANK ( [Medical Loss Ratio] ),
+			    BLANK (),
+			    RANKX ( ALLSELECTED ( dim_insurer[insurer_name] ), [Medical Loss Ratio], , ASC, DENSE )
+			)
+		formatString: #,0
+		displayFolder: 04 Change and rank
+		lineageTag: 08d180b0-486c-42d7-b61e-e0c22635fb59
+
+	measure 'Peers In Period' = COUNTROWS ( FILTER ( ALLSELECTED ( dim_insurer[insurer_name] ), NOT ISBLANK ( [Medical Loss Ratio] ) ) )
+		formatString: #,0
+		displayFolder: 04 Change and rank
+		lineageTag: 36eb9922-584d-41c8-a5ea-8b02f4de257d
+
+	measure 'Rank Label' = IF ( ISBLANK ( [Medical LR Rank] ), BLANK (), [Medical LR Rank] & " of " & [Peers In Period] )
+		displayFolder: 04 Change and rank
+		lineageTag: 26f483fd-5afc-4c4a-98ce-942af7c0bfb4
+
+	measure 'Medical Revenue Share of Peers' = DIVIDE ( [Medical Revenue], CALCULATE ( [Medical Revenue], ALLSELECTED ( dim_insurer ) ) )
+		formatString: 0.0%
+		displayFolder: 04 Change and rank
+		lineageTag: 52b58747-5422-48c7-8f7c-1128c44820fd
+
+	measure 'Derived Note' =
+			IF (
+			    CALCULATE ( COUNTROWS ( fact_insurer_period ), fact_insurer_period[is_derived] = TRUE () ) > 0,
+			    "Q4 derived as FY minus 9M",
+			    BLANK ()
+			)
+		displayFolder: 04 Change and rank
+		lineageTag: acc1f60f-33e7-4809-b521-7104036adac5
+
+	measure 'Rank Label (card)' =
+			VAR one = HASONEVALUE ( dim_insurer[insurer_name] )
+			VAR cur = [Medical Loss Ratio]
+			VAR peers = FILTER ( ALL ( dim_insurer[insurer_name] ), NOT ISBLANK ( [Medical Loss Ratio] ) )
+			VAR rk = RANKX ( peers, [Medical Loss Ratio], cur, ASC, DENSE )
+			VAR n = COUNTROWS ( peers )
+			RETURN IF ( NOT one, "Select one insurer", IF ( ISBLANK ( cur ), BLANK (), rk & " of " & n ) )
+		displayFolder: 04 Change and rank
+		lineageTag: 53e62151-a91f-47aa-baed-f101f606b98a
+
+	column insurer_key
+		dataType: string
+		lineageTag: c5b6ded4-251f-4bf8-a3b8-d0b6976c8ddf
+		summarizeBy: none
+		sourceColumn: insurer_key
+
+	column insurer_name
+		dataType: string
+		lineageTag: 59a4165e-ce73-45c7-b02c-3c472555a204
+		summarizeBy: none
+		sourceColumn: insurer_name
+
+	column mono_line_medical
+		dataType: boolean
+		lineageTag: 728cc1ff-ed5d-49b1-aeba-4b9783d046d3
+		summarizeBy: none
+		sourceColumn: mono_line_medical
+
+	column lines_of_business
+		dataType: string
+		lineageTag: 332b4fa0-a06b-4e67-b171-ed2c6b6dca48
+		summarizeBy: none
+		sourceColumn: lines_of_business
+
+	column medical_share_min
+		dataType: double
+		lineageTag: a892de44-dbba-4149-a59e-1dba157b9c96
+		summarizeBy: none
+		sourceColumn: medical_share_min
+
+	column medical_share_max
+		dataType: double
+		lineageTag: 861eb89d-5da1-4880-b449-c9794bd0a2ad
+		summarizeBy: none
+		sourceColumn: medical_share_max
+
+	column first_period
+		dataType: string
+		lineageTag: 64977d65-bfd2-4dd2-9831-289c38931911
+		summarizeBy: none
+		sourceColumn: first_period
+
+	column last_period
+		dataType: string
+		lineageTag: 34b5de3c-c6ea-41a2-a5f8-3e29b271d033
+		summarizeBy: none
+		sourceColumn: last_period
+
+	partition dim_insurer = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\dim_insurer.csv"), [Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Nulls = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, Table.ColumnNames(Headers)),
+				    Typed = Table.TransformColumnTypes(Nulls, {{"insurer_key", type text}, {"insurer_name", type text}, {"mono_line_medical", type logical}, {"lines_of_business", type text}, {"medical_share_min", type number}, {"medical_share_max", type number}, {"first_period", type text}, {"last_period", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

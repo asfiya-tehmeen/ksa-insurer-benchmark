@@ -1,0 +1,6 @@
+VAR one = HASONEVALUE ( dim_insurer[insurer_name] )
+VAR cur = [Medical Loss Ratio]
+VAR peers = FILTER ( ALL ( dim_insurer[insurer_name] ), NOT ISBLANK ( [Medical Loss Ratio] ) )
+VAR rk = RANKX ( peers, [Medical Loss Ratio], cur, ASC, DENSE )
+VAR n = COUNTROWS ( peers )
+RETURN IF ( NOT one, "Select one insurer", IF ( ISBLANK ( cur ), BLANK (), rk & " of " & n ) )

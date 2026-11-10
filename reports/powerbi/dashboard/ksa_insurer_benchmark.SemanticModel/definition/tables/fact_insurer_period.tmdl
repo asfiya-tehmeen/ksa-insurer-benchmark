@@ -1,0 +1,99 @@
+table fact_insurer_period
+	lineageTag: 51962520-e081-4a51-b707-90e0e6b7855c
+
+	column insurer_key
+		dataType: string
+		isHidden
+		lineageTag: 666dc504-d79c-46f5-b3ef-dae25a6579e5
+		summarizeBy: none
+		sourceColumn: insurer_key
+
+	column period_key
+		dataType: int64
+		isHidden
+		lineageTag: d40a4923-7611-4ca0-bd23-fe112cc15546
+		summarizeBy: none
+		sourceColumn: period_key
+
+	column segment
+		dataType: string
+		isHidden
+		lineageTag: 5c03aace-4f42-4c8c-ace3-0bb0a4fb62ab
+		summarizeBy: none
+		sourceColumn: segment
+
+	column revenue
+		dataType: double
+		isHidden
+		lineageTag: 10107631-7fbb-4c09-91e2-7a4d49c5a7ef
+		summarizeBy: none
+		sourceColumn: revenue
+
+	column service_expenses
+		dataType: double
+		isHidden
+		lineageTag: 65977fc4-bb6c-4155-92a3-edbb62916a14
+		summarizeBy: none
+		sourceColumn: service_expenses
+
+	column reinsurance_net
+		dataType: double
+		isHidden
+		lineageTag: 7e87e4ee-ef04-41eb-bd56-bbf46587bd2a
+		summarizeBy: none
+		sourceColumn: reinsurance_net
+
+	column pool_surplus
+		dataType: double
+		isHidden
+		lineageTag: bf22c5cd-548d-4a5d-8117-9a61aafece81
+		summarizeBy: none
+		sourceColumn: pool_surplus
+
+	column service_result
+		dataType: double
+		isHidden
+		lineageTag: 345310af-feb3-4a39-b76d-3e28e530b7e3
+		summarizeBy: none
+		sourceColumn: service_result
+
+	column other_operating_expenses
+		dataType: double
+		isHidden
+		lineageTag: 436a7791-421a-4d3a-958e-3a4a176984d9
+		summarizeBy: none
+		sourceColumn: other_operating_expenses
+
+	column is_derived
+		dataType: boolean
+		lineageTag: 4f29241f-ea5f-49f0-a751-84d21a45584d
+		summarizeBy: none
+		sourceColumn: is_derived
+
+	column source_files
+		dataType: string
+		isHidden
+		lineageTag: 8a8bf386-ddfe-434d-8719-468c4f985029
+		summarizeBy: none
+		sourceColumn: source_files
+
+	column source_pages
+		dataType: string
+		isHidden
+		lineageTag: e8930347-3a1d-4235-a98e-3e68b707f549
+		summarizeBy: none
+		sourceColumn: source_pages
+
+	partition fact_insurer_period = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\fact_insurer_period.csv"), [Delimiter=",", Columns=12, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Nulls = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, Table.ColumnNames(Headers)),
+				    Typed = Table.TransformColumnTypes(Nulls, {{"insurer_key", type text}, {"period_key", Int64.Type}, {"segment", type text}, {"revenue", type number}, {"service_expenses", type number}, {"reinsurance_net", type number}, {"pool_surplus", type number}, {"service_result", type number}, {"other_operating_expenses", type number}, {"is_derived", type logical}, {"source_files", type text}, {"source_pages", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,33 @@
+MALATH COOPERATIVE INSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+STATEMENT OF INCOME
+(All amounts are in thousands Saudi Riyal unless otherwise stated)
+AS AT 31 DECEMBER 2025
+Notes 2025 2024
+Insurance service revenue 6.1 1,445,363 1,010,723
+Insurance service expenses 6.1 (1,477,561) (976,030)
+Insurance service result before reinsurance contracts held (32,198) 34,693
+Allocation of reinsurance premiums 6.2 (60,200) (64,121)
+Amounts recoverable from reinsurance 6.2 79,337 25,229
+Net revenues / (expenses) from reinsurance contracts held 19,137 (38,892)
+Insurance service result (13,061) (4,199)
+Investment income on financial assets at amortised cost 31,461 22,469
+Investment (loss) / income on financial assets at FvTPL 7.1 (68) 14,229
+Impairment reversal / (losses) on financial assets 86 (1)
+Fair value gain on investment properties 13 21,463
+Net investment income 52,942 36,697
+Finance expenses from insurance contracts issued 6.1 (17,689) (14,174)
+Finance income from reinsurance contracts held 6.2 5,346 3,977
+Net insurance finance expenses (12,343) (10,197)
+Net insurance and investment result 27,538 22,301
+Other operating expenses (34,895) (31,080)
+Other income 7.2 37,158 45,172
+Net income for the year attributable to shareholders before zakat 29,801 36,393
+Zakat expense for the year (8,100) (9,504)
+Net income for the year attributable to shareholders 21,701 26,889
+Earnings per share
+Basic and diluted earning per share 11 0.43 0.54
+Weighted average number of shares issued throughout the year 50,000 50,000
+(thousands)
+FINANCIAL CONTROLLER CHIEF EXECUTIVE OFFICER CHAIRMAN
+The accompanying notes 1 to 33 form an integral part of these financial statements

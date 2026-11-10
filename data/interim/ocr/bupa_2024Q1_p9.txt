@@ -1,0 +1,58 @@
+BUPA ARABIA FOR COOPERATIVE INSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS (unaudited)
+For the three-month period ended 31 March 2024
+(All amounts in Saudi Riyals thousands unless otherwise stated)
+Three-month period ended
+31 March
+Notes 2024 2023
+Cash flows from operating activities
+Net income attributed to shareholders before zakat and income tax 416,123 230,136
+Adjustments for non-cash items:
+Depreciation of fixtures, furniture and equipment 4,093 3,697
+Amortisation of right-of-use assets 5,446 5,462
+Amortisation of intangible assets 4,125 3,994
+Loss on disposal of fixtures, furniture and equipment 3,171
+Gain on termination of a lease (10,474)
+Provision for employees share scheme 9,801 5,668
+Net impairment loss on financial assets 218 28
+Investment income on financial assets at amortized cost (103,190) (77,499)
+Investment income on financial assets at fair value (55,174) (25,181)
+Provision for end-of-service benefits 8,334 7,340
+Finance cost 1,341 1,635
+Changes in operating assets and liabilities:
+Insurance contract liabilities 343,123 796,752
+Investment held at FVTPL 28,750
+Reinsurance contract assets (9,109) (22,363)
+Prepaid expenses and other assets 33,004 (14,331)
+Due from related parties 3,316
+Accrued and other liabilities (13,699) (10,046)
+Due to related parties (29,537) 5,517
+636,346 914,125
+End-of-service benefits paid (4,329) (1,948)
+Surplus paid to policyholders (6,191) (8,450)
+Zakat and income tax paid (16,561)
+Net cash generated from operating activities 625,826 887,166
+Cash flows from investing activities
+Placement in term deposits (1,343,220) (1,325,316)
+Proceeds from maturity of term deposits 1,828,901 1,449,753
+Additions to investments carried at fair value (751,100) (330,188)
+Additions to investments carried at amortised cost (510,827) (22)
+Disposals of investments carried at fair value 99,658 181,313
+Disposal of investments carried at amortised cost 19
+Proceeds from commissions and dividends 58,823 35,841
+Additions to fixtures, furniture and equipment (1,854) (9,602)
+Additions to intangible assets (10,551) (8,070)
+Net cash used in investing activities (630,170) (6,272)
+Cash flows from financing activities
+Lease liability paid (14,028) (14,362)
+Net cash used in financing activities (14,028) (14,362)
+Net change in cash and cash equivalents (18,372) 866,532
+Cash and cash equivalents at beginning of the period 1,255,896 1,287,961
+Cash and cash equivalents at end of the period 1,237,524 2,154,493
+Non-cash transactions
+Income tax refundable from non-Saudi shareholders 4,185
+Chairman Director and Chief Executive Officer
+Loay Hisham Nazer Tal Hisham Nazer
+Chief Financial Officer
+Hatim Tariq Jamal

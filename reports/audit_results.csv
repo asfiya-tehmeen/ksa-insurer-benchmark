@@ -1,0 +1,53 @@
+origin,source_file,source_page,method,period,scope,segment,item,value,check,verified_by,matches_pdf
+segment,walaa_2025Q3.pdf,71,pdfplumber,2025Q3,ytd,medical,service_result,-58758.0,strict,text layer: printed number found on page,True
+segment,medgulf_2025Q2.pdf,46,pdfplumber,2025Q2,period,total,service_result,22172.0,strict,text layer: printed number found on page,True
+statement,alrajhitakaful_2025Q1.pdf,5,ocr,2025Q1,period,total,claims_incurred,-1039750.0,,visual: matches rendered page,True
+statement,tawuniya_2025Q2.pdf,5,ocr,2025Q2,ytd,total,reinsurance_net,-1055161.0,,visual: matches rendered page,True
+statement,gig_2025FY.pdf,9,pdfplumber,2025FY,period,total,service_result,124965.0,strict,text layer: printed number found on page,True
+segment,gig_2025Q2.pdf,26,pdfplumber,2025Q2,ytd,medical,reinsurance_net,-1709.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q3.pdf,71,pdfplumber,2025Q3,ytd,total,service_result,-127841.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q1.pdf,62,pdfplumber,2025Q1,period,medical,claims_incurred,-127327.0,strict,text layer: printed number found on page,True
+statement,malath_2025Q2.pdf,5,ocr,2025Q2,ytd,total,claims_incurred,-707779.0,,visual: matches rendered page,True
+statement,medgulf_2025FY.pdf,12,ocr,2025FY,period,total,service_result,54777.0,,visual: matches rendered page,True
+statement,alrajhitakaful_2025Q2.pdf,5,ocr,2025Q2,period,total,revenue,1380212.0,,visual: matches rendered page,True
+segment,walaa_2025Q3.pdf,69,pdfplumber,2025Q3,period,medical,claims_incurred,-94750.0,strict,text layer: printed number found on page,True
+statement,gig_2025FY.pdf,9,pdfplumber,2025FY,period,total,revenue,1503755.0,strict,text layer: printed number found on page,True
+segment,tawuniya_2025Q1.pdf,69,pdfplumber,2025Q1,period,medical,claims_incurred,-3567797.0,strict,text layer: printed number found on page,True
+segment,walaa_2025FY.pdf,101,pdfplumber,2025FY,period,medical,claims_incurred,-458002.0,strict,text layer: printed number found on page,True
+statement,medgulf_2025Q1.pdf,7,pdfplumber,2025Q1,period,total,claims_incurred,-917055.0,strict,text layer: printed number found on page,True
+statement,alrajhitakaful_2025FY.pdf,9,ocr,2025FY,period,total,reinsurance_net,-313914.0,,visual: matches rendered page,True
+statement,medgulf_2025Q3.pdf,7,pdfplumber,2025Q3,ytd,total,revenue,3053664.0,strict,text layer: printed number found on page,True
+segment,medgulf_2025Q1.pdf,46,pdfplumber,2025Q1,period,total,claims_incurred,-917055.0,strict,text layer: printed number found on page,True
+statement,malath_2025Q3.pdf,5,ocr,2025Q3,ytd,total,service_result,-37372.0,,visual: matches rendered page,True
+segment,gig_2025Q3.pdf,26,pdfplumber,2025Q3,ytd,medical,claims_incurred,-269132.0,strict,text layer: printed number found on page,True
+segment,medgulf_2025Q3.pdf,46,pdfplumber,2025Q3,ytd,total,reinsurance_net,-180046.0,strict,text layer: printed number found on page,True
+segment,gig_2025Q2.pdf,26,pdfplumber,2025Q2,period,total,revenue,359189.0,strict,text layer: printed number found on page,True
+segment,gig_2025FY.pdf,63,pdfplumber,2025FY,period,total,claims_incurred,-1386441.0,strict,text layer: printed number found on page,True
+segment,malath_2025Q2.pdf,59,pdfplumber,2025Q2,period,medical,claims_incurred,-121498.0,strict,text layer: printed number found on page,True
+segment,gig_2025Q1.pdf,25,pdfplumber,2025Q1,period,total,claims_incurred,-271156.0,strict,text layer: printed number found on page,True
+segment,alrajhitakaful_2025Q2.pdf,42,pdfplumber,2025Q2,ytd,total,reinsurance_net,-162745.0,strict,text layer: printed number found on page,True
+segment,tawuniya_2025Q3.pdf,72,pdfplumber,2025Q3,period,total,claims_incurred,-4437837.0,strict,text layer: printed number found on page,True
+segment,tawuniya_2024Q3.pdf,74,pdfplumber,2024Q3,ytd,total,service_result,892259.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q2.pdf,71,pdfplumber,2025Q2,ytd,medical,service_result,-49103.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q3.pdf,71,pdfplumber,2025Q3,ytd,total,claims_incurred,-1314844.0,strict,text layer: printed number found on page,True
+statement,bupa_2024Q3.pdf,5,pdfplumber,2024Q3,ytd,total,reinsurance_net,-45046.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q3.pdf,69,pdfplumber,2025Q3,period,total,claims_incurred,-461196.0,strict,text layer: printed number found on page,True
+segment,malath_2025Q2.pdf,59,pdfplumber,2025Q2,period,total,service_result,3833.0,strict,text layer: printed number found on page,True
+statement,bupa_2024FY.pdf,9,pdfplumber,2024FY,period,total,revenue,18101517.0,strict,text layer: printed number found on page,True
+statement,bupa_2025Q2.pdf,5,pdfplumber,2025Q2,period,total,net_income,286253.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q3.pdf,69,pdfplumber,2025Q3,period,medical,service_result,-9655.0,strict,text layer: printed number found on page,True
+statement,bupa_2025Q2.pdf,5,pdfplumber,2025Q2,ytd,total,claims_incurred,-8504558.0,strict,text layer: printed number found on page,True
+statement,alrajhitakaful_2025Q1.pdf,5,ocr,2025Q1,period,total,net_income,90797.0,,visual: matches rendered page,True
+statement,gig_2025FY.pdf,9,pdfplumber,2025FY,period,total,net_income,126189.0,strict,text layer: printed number found on page,True
+statement,gig_2025Q3.pdf,5,ocr,2025Q3,ytd,total,service_result,99316.0,,visual: matches rendered page,True
+statement,malath_2025FY.pdf,10,ocr,2025FY,period,total,revenue,1445363.0,,visual: matches rendered page,True
+segment,gig_2025FY.pdf,63,pdfplumber,2025FY,period,medical,revenue,330947.0,strict,text layer: printed number found on page,True
+statement,malath_2025Q3.pdf,5,ocr,2025Q3,period,total,net_income,631.0,,visual: matches rendered page,True
+segment,tawuniya_2025Q1.pdf,69,pdfplumber,2025Q1,period,total,revenue,5121418.0,strict,text layer: printed number found on page,True
+segment,gig_2025FY.pdf,63,pdfplumber,2025FY,period,medical,reinsurance_net,-5285.0,strict,text layer: printed number found on page,True
+statement,bupa_2025Q2.pdf,5,pdfplumber,2025Q2,ytd,total,service_result,580264.0,strict,text layer: printed number found on page,True
+statement,walaa_2025Q3.pdf,5,ocr,2025Q3,ytd,total,net_income,-126697.0,,visual: matches rendered page,True
+segment,malath_2025Q3.pdf,61,pdfplumber,2025Q3,ytd,medical,claims_incurred,-392027.0,strict,text layer: printed number found on page,True
+statement,gig_2025FY.pdf,9,pdfplumber,2025FY,period,total,reinsurance_net,232.0,strict,text layer: printed number found on page,True
+segment,walaa_2025Q3.pdf,71,pdfplumber,2025Q3,ytd,medical,reinsurance_net,799.0,loose,visual: matches rendered page,True
+statement,gig_2025Q2.pdf,5,ocr,2025Q2,period,total,service_result,24190.0,,visual: matches rendered page,True

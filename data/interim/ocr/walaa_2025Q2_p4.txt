@@ -1,0 +1,50 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(A SAUDIJOINT STOCK COMPANY)
+INTERIMCONDENSEDCONSOLIDATEDSTATEMENTOFFINANCIALPOSITION
+ASATJUNE30,2025
+June30,2025December31,2024
+Notes (Unaudited) (Audited)
+SAR"000"
+Assets
+Cash and cash equivalents 516,873 962,268
+Short term deposits 336,230 296,709
+Prepaidexpensesandotherassets 81,549 86,460
+Reinsurance contract assetsfornonunit-linked business 4.2 680,358 741,129
+Reinsurance contract assets for unit-linked business 4.2 164
+Financial assets for unit-linked insurance contracts 514,788 536,185
+Due from shareholders'operations 29,030 1,940
+Statutory deposit 127,558 127,558
+Accrued income on statutory deposit 3,515 19
+Investments 1,327,032 1,388,722
+Long term deposits 440,907 409,741
+Property and equipment, net 13 58,196 50,960
+Right of use assets, net 10 20,016 23,183
+Intangibleassets 12 111,867 116,460
+Goodwill 11 76,729 24,415
+Total assets 4,324,648 4,765,913
+Liabilities and equity
+Liabilities
+Insurancecontract liabilities for nonunit-linked business 4.1 1,808,365 2,129,850
+Insurance contract liabilities for unit-linked business 4.1 518,713 543,959
+Reinsurance contract liabilities for non unit-linked business 4.2 4,460 3,302
+Reinsurance contract liabilities forunit-linked business 4.2 197
+Accrued expenses and other liabilities 14 139,411 160,313
+Lease liabilities 17,080 21,534
+Accrued income on statutory deposit payable to Insurance Authority 3,515 19
+Dueto insurance operations 29,030 1,940
+Provision for zakat and income tax 19 50,278 42,963
+Provisionforend-of-servicebenefits (EOSB) 39,524 38,015
+Total liabilities 2,610,573 2,941,895
+Equity
+Share capital 20 1,275,583 1,275,583
+Share premium 20 228,280 228,280
+Statutoryreserve 92,775 92,775
+Fair value reserve for investments measured at fairvalue 122,165 117,149
+Retained earnings 490 117,794
+Total shareholders' equity 1,719,293 1,831,581
+Remeasurement of EosB related to insurance operations (7,563) (7,563)
+Minority interest 11 2,345
+Total equity 1,714,075 1,824,018
+Total liabilities and equity 4,324,648 4,765,913
+Chief Finaniel Officer Chief Executive Officer Board member
+The accompanying hotes 1 to 28 form an integral part of these interim condensed consolidated financial statements.

@@ -1,0 +1,45 @@
+ARajhi CompanyforCooperativeInsurance
+(A Saudi Joint Stock Company)
+Statement of financial position (SOFP)
+As at 31st December 2025
+31st December 2025 31st December 2024
+Note Saudi Riyal ()in 000
+Assets
+Cashand bank balances 582,152 720,981
+Investments measured at fair value through profit orloss 1,701,060 1,333,001
+Investmentsmeasuredatfairvaluethroughothercomprehensiveincome 283,951 254,733
+Investments measuredat amortized cost, net 2,023,623 2,413,516
+Investmentforunit linked contracts 8,374,752 6,289,550
+Insurancecontractassets 5,366
+Retakaful/reinsurancecontractassets 640,261 674,669
+Prepaymentsand otherassets 107,500 59,108
+Statutory deposit, net 99,988 99,974
+Accrued income on statutory deposit 6,150 3,357
+Right-of-use assets, net 29,653 37,485
+Intangible assets, net 10 286,352 165,515
+Property and equipment, net 11 43,184 35,514
+Total assets 14,183,992 12,087,407
+Liabilities
+Payables,accrualsandotherliabilities 12 187,422 116,457
+Insurancecontract liabilities 10,851,359 9,765,345
+Retakaful/reinsurancecontractliabilities 717 15,479
+Investment contract liabilities 25 508,823
+Provision foremployees'end-of-servicebenefits 13 35,145 33,050
+Provision for zakat 14 27,429 34,502
+Payables to Insurance Authority 6,150 3,357
+Leaseliabilities 15 31,256 38,792
+Total liabilities 11,648,301 10,006,982
+Equity
+Share capital 16 1,000,000 1,000,000
+Statutory reserve 17 440,482 349,486
+Retained earnings 1,022,233 658,248
+Treasury sharereserve 18 (35,671)
+Employees stock option scheme reserve 19 6,589
+RemeasurementreserveforEOsB (7,682) (7,831)
+FairvaluereserveforFvOClinvestments 23 109,740 80,522
+Total equity 2,535,691 2,080,425
+Total liabilities and equity 14,183,992 12,087,407
+Commitments and contingencies 24 29,588 35,202
+NabeelAli Shoaib Saud Ghenem Bin Ghonem Ibrahim A/wazir
+Member-Board (BoD) Chief Executive Officer (CEO) Chief Financial Officer (CFO)
+The accompanying notes 1 - 35 on pages 11 -1r5 form an integral part of, and should be read in conjunction with, these financial statements.

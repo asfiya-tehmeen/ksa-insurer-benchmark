@@ -1,0 +1,36 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(A SAUDI JOINT STOCK COMPANY)
+CONSOLIDATEDSTATEMENTOFCASHFLOWS
+FORTHEYEARENDEDDECEMBER31,2025
+Notes 2025 2024
+SAR"000"
+CASHFLOWSFROMOPERATINGACTIVITIES
+Net (loss) / income for the year before zakat and income tax (155,084) 83,053
+Adjustments for non-cash and non-operating items:
+Depreciation of property and equipment 13 7,452 5,603
+Depreciation of right of use assets 12 7,970 7,496
+Amortization of intangible assets 14 12,326 20,156
+Commission income on investments and deposits (87,382) (74,216)
+Dividends on investments (14,151) (16,983)
+Realized gain on investments measured at fair value 10.1 (4,765) (43,892)
+Unrealized loss / (gain) on investments measured at fair value 10.1 58,635 (4,652)
+Change in expected credit losses on financial assets 28
+Gains on disposal of property and equipment (161) (20,378)
+Finance coston leaseassets 851 912
+Provision for end-of-service benefits (EOsB) 7,026 6,089
+Changes in operating assets and liabilities:
+Insurancecontract liabilitiesfornonunit-linked business 4.1 886,262 127,426
+Insurance contract liabilities for unit-linked business 4.1 (17,976) (8,288)
+Reinsurance contractassets for non unit-linked business 4.2 (1,180,677) 48,638
+Reinsurance contract assets for unit-linked business 4.2 164 (53)
+Reinsurancecontract liabilities fornon unit-linked business 4.2 (141) 3,302
+Reinsurance contract liabilities for unit-linked business 4.2 393
+Prepaid expenses and other assets 11 6,748 (33,726)
+Accrued expenses and other liabilities 16 (66,717) (8,977)
+(539,199) 91,515
+End-of-service benefits paid 23 (4,013) (5,619)
+Zakat and income tax paid 21 (2,685) (20,321)
+Net cash (used in) / generated from operating activities (545,897) 65,575
+Chief Financial Officer Chief Executive Officer Board member
+The accompanying notes 1 to 34 form an integral part of these consolidated financial statements.
+11

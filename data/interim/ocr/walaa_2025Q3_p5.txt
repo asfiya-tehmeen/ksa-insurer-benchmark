@@ -1,0 +1,44 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(ASAUDIJOINTSTOCKCOMPANY)
+INTERIMCONDENSEDCONSOLIDATEDSTATEMENTOFINCOME
+Three-month period ended Nine-month period ended
+September30, September 30,
+2025 2024 2025 2024
+Notes (Unaudited) (Unaudited) (Unaudited) (Unaudited)
+SAR“000" SAR“000"
+Insurancerevenue 5.1 874,200 897,433 2,349,232 2,460,682
+Insurance service expenses 5.2 (461,196) (449,688) (1,314,844) (1,444,366)
+Insurance service results before reinsurance
+contracts held 413,004 447,745 1,034,388 1,016,316
+Allocation of reinsurance premiums 5.3 (525,368) (467,216) (1,273,797) (1,105,426)
+Amounts recoverable from reinsurers for incurred
+claims 5.4 85,030 14,473 111,568 75,548
+Netexpenses from reinsurance contracts held (440,338) (452,743) (1,162,229) (1,029,878)
+Insurance service results (27,334) (4,998) (127,841) (13,562)
+Commission income on investments and deposits 20,204 17,357 66,005 56,947
+Dividendsoninvestments 3,826 4,171 11,692 13,684
+Realized gain / (loss) on investments measured at fair
+value 9.1 2,945 7,829 (6,031) 24,527
+Unrealized gain / (loss) on investments measured at
+fair value 9.1 4,144 8,982 (24,456) 24,519
+Change in expected credit losses on financial assets 25 (7) 24
+Netinvestmentincome 31,144 38,332 47,234 119,679
+Finance expense from insurance contracts issued (3,710) (1,931) (18,441) (18,003)
+Finance income from reinsurance contracts held 2,204 79 11,327 10,300
+Netinsurancefinance expenses (1,506) (1,852) (7,114) (7,703)
+Net insuranceand investmentresults 2,304 31,482 (87,721) 98,414
+Other operating income 2,732 5,188
+Otherincome 700 701 2,144 22,474
+Other operating expenses (10,306) (8,332) (31,308) (27,486)
+Net(loss)/incomefortheperiodbeforezakat&tax (4,570) 23,851 (111,697) 93,402
+Zakat and income tax charge for the period 19 (5,000) (3,750) (15,000) (9,000)
+Net(loss)/incomefortheperiodafterzakat&tax (9,570) 20,101 (126,697) 84,402
+- Attributable to minority interest 11 151 328
+-Attributable to shareholders (9,721) 20,101 (127,025) 84,402
+(Loss) / earning per share (expressed in SAR per
+share)- Restated
+Basic and diluted (loss) / earning per share - Restated 24 (0.08) 0.20 (1.00) 0.83
+Weighted average number of ordinary outstanding
+shares (in thousand shares) -Restated 127,558 101,722 127,558 101,722
+Chief Financial Officer Chief Executive Officer Boardmember
+The accompanying notes 1 to 28 form an integral part of these interim condensed consolidated financial statements.

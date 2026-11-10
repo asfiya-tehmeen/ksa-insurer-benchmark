@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Revenue",
+    "expr": "SUM ( fact_insurer_period[revenue] )",
+    "folder": "02 Base measures"
+  },
+  {
+    "name": "Service Expenses",
+    "expr": "SUM ( fact_insurer_period[service_expenses] )",
+    "folder": "02 Base measures"
+  },
+  {
+    "name": "Net Reinsurance",
+    "expr": "SUM ( fact_insurer_period[reinsurance_net] )",
+    "folder": "02 Base measures"
+  },
+  {
+    "name": "Pool Surplus",
+    "expr": "SUM ( fact_insurer_period[pool_surplus] )",
+    "folder": "02 Base measures"
+  },
+  {
+    "name": "Service Result",
+    "expr": "SUM ( fact_insurer_period[service_result] )",
+    "folder": "02 Base measures"
+  },
+  {
+    "name": "Other Operating Expenses",
+    "expr": "SUM ( fact_insurer_period[other_operating_expenses] )",
+    "folder": "02 Base measures"
+  },
+  {
+    "name": "Medical Revenue",
+    "expr": "CALCULATE ( [Revenue], fact_insurer_period[segment] = \"medical\" )",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Medical Loss Ratio",
+    "expr": "DIVIDE (\n    CALCULATE ( [Service Expenses], fact_insurer_period[segment] = \"medical\" ),\n    [Medical Revenue]\n)",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Medical Net Service Ratio",
+    "expr": "DIVIDE (\n    CALCULATE ( [Service Expenses] - [Net Reinsurance] - [Pool Surplus], fact_insurer_period[segment] = \"medical\" ),\n    [Medical Revenue]\n)",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Medical Service Margin",
+    "expr": "DIVIDE (\n    CALCULATE ( [Service Result], fact_insurer_period[segment] = \"medical\" ),\n    [Medical Revenue]\n)",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Total Combined Ratio",
+    "expr": "VAR rev = CALCULATE ( [Revenue], fact_insurer_period[segment] = \"total\" )\nVAR opex = CALCULATE ( [Other Operating Expenses], fact_insurer_period[segment] = \"total\" )\nRETURN\n    IF (\n        ISBLANK ( opex ),\n        BLANK (),\n        DIVIDE ( CALCULATE ( [Service Expenses], fact_insurer_period[segment] = \"total\" ) + opex, rev )\n    )",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Total Loss Ratio",
+    "expr": "DIVIDE (\n    CALCULATE ( [Service Expenses], fact_insurer_period[segment] = \"total\" ),\n    CALCULATE ( [Revenue], fact_insurer_period[segment] = \"total\" )\n)",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Medical Share of Revenue",
+    "expr": "DIVIDE ( [Medical Revenue], CALCULATE ( [Revenue], fact_insurer_period[segment] = \"total\" ) )",
+    "folder": "03 Ratio measures"
+  },
+  {
+    "name": "Medical LR Prior Year",
+    "expr": "VAR py = MAX ( dim_period[prior_year_key] )\nRETURN\n    CALCULATE ( [Medical Loss Ratio], REMOVEFILTERS ( dim_period ), dim_period[period_key] = py )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Medical LR YoY (pp)",
+    "expr": "VAR cur = [Medical Loss Ratio]\nVAR py = [Medical LR Prior Year]\nRETURN IF ( ISBLANK ( cur ) || ISBLANK ( py ), BLANK (), ( cur - py ) * 100 )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Medical LR Prior Quarter",
+    "expr": "VAR pq = MAX ( dim_period[prior_period_key] )\nRETURN\n    IF ( ISBLANK ( pq ), BLANK (),\n        CALCULATE ( [Medical Loss Ratio], REMOVEFILTERS ( dim_period ), dim_period[period_key] = pq ) )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Medical LR QoQ (pp)",
+    "expr": "VAR cur = [Medical Loss Ratio]\nVAR pq = [Medical LR Prior Quarter]\nRETURN IF ( ISBLANK ( cur ) || ISBLANK ( pq ), BLANK (), ( cur - pq ) * 100 )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Medical LR Rank",
+    "expr": "IF (\n    ISBLANK ( [Medical Loss Ratio] ),\n    BLANK (),\n    RANKX ( ALLSELECTED ( dim_insurer[insurer_name] ), [Medical Loss Ratio], , ASC, DENSE )\n)",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Peers In Period",
+    "expr": "COUNTROWS ( FILTER ( ALLSELECTED ( dim_insurer[insurer_name] ), NOT ISBLANK ( [Medical Loss Ratio] ) ) )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Rank Label",
+    "expr": "IF ( ISBLANK ( [Medical LR Rank] ), BLANK (), [Medical LR Rank] & \" of \" & [Peers In Period] )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Medical Revenue Share of Peers",
+    "expr": "DIVIDE ( [Medical Revenue], CALCULATE ( [Medical Revenue], ALLSELECTED ( dim_insurer ) ) )",
+    "folder": "04 Change and rank"
+  },
+  {
+    "name": "Derived Note",
+    "expr": "IF (\n    CALCULATE ( COUNTROWS ( fact_insurer_period ), fact_insurer_period[is_derived] = TRUE () ) > 0,\n    \"Q4 derived as FY minus 9M\",\n    BLANK ()\n)",
+    "folder": "04 Change and rank"
+  }
+]

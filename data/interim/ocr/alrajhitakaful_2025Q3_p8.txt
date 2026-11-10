@@ -1,0 +1,56 @@
+Al Rajhi Company for Cooperative Insurance
+(A Saudi Joint Stock Company)
+Statement of cash flows (SOCF)
+For the nine-month period ended 3oth September 2025
+30th September 3oth September
+2025 2024
+Un-Audited Un-Audited
+Note SaudiRiyal()in000
+Net income for the period before zakat 306,621 275,997
+Adjustments for non-cash items:
+Amortization of intangible assets 13,519 16,187
+Depreciation of property and equipment 13,502 7,856
+Amortization of right-of-use assets 5,589 5,391
+Impairment gain on financial assets (213)
+Employees stock option scheme reserve 13 2,047
+Finance cost on lease 1,141 1,660
+Accrued incomeon investmentsheldatamortised cost (63,711) (51,367)
+Accrued income on investments measured at FVTPL (13,926) (6,240)
+Provision for end-of-service benefits (EOsB) 4,656 4,971
+269,438 254,242
+Changes in operating assets and liabilities:
+InvestmentsmeasuredatFVTPL (300,110) (467,382)
+Investment for unit linked contracts (2,461,432) (3,648,023)
+Insurance contract assets 174,242
+Retakaful /reinsurance contract assets 18,081 8,873
+Prepayments and other assets (75,276) 53,668
+Accrued income on statutory deposit (3,663) 4,301
+Payable,accruals and other liabilities 64,679 66,906
+Insurance contract liabilities 2,181,660 3,562,118
+Retakaful /reinsurance contract liabilities (14,878) (189,063)
+Deposit against guarantees & statutory income 6,401 (4,125)
+Payables to Insurance Authority 3,663 2,599
+(311,433) (181,644)
+Zakat paid (20,958) (9,402)
+End-of-service benefits paid (EOSB) (4,868) (3,774)
+Net cash (used in) operating activities (337,259) (194,820)
+Cash flows from investing activities
+Purchase of investments designated as FvOCl (48,882)
+Disposal of investments designated as FVOCl 276,472
+Purchase of investments held at amortised cost (770,980)
+Disposal of investments held atamortised cost 469,289 635,298
+Purchase of intangible assets (116,933) (82,922)
+Purchase of property and equipment (7,165) (4,092)
+Net cash from investing activities 345,191 4,894
+Cash flows from financing activities
+Buy-back of treasury shares 12 (35,671)
+Lease liabilitypaid (8,562) (11,477)
+Net cash (used in) financing activities (44,233) (11,477)
+Net change in cash and cash equivalents (36,301) (201,403)
+Cash and cash equivalents at the beginning of the period 685,779 900,802
+Cash and cash equivalents at the end of the period 649,478 699,399
+Non-Cash Transactions:
+Net change in fair value of investmepX at FvoCI TransferfromIntangibleassetstopropertyandequipment Referto note/22.for comparative period financial statements. Addition to right to use assets and lease liabilities 12,781 4,403 (9,976) 2,341
+Nabeel Ali Shoaib Saud Ghonem Bin Ghonem IbrahimAlwazir
+Member-Board (BoD) Chief Executive Officer (CEO) Chief Financial Officer (CFO)
+The accompanying notes 1 to 23 form an integral part of these financial statements.

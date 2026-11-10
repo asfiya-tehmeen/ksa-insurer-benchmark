@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "ksa_insurer_benchmark"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ed5d51e9-c3a3-452e-acf9-01ad5f8a53c6"
+  }
+}

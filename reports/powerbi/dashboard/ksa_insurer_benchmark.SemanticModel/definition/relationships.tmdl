@@ -1,0 +1,8 @@
+relationship f018ca24-6f83-4f7d-bf99-f6aee5a56484
+	fromColumn: fact_insurer_period.insurer_key
+	toColumn: dim_insurer.insurer_key
+
+relationship 0e39eaf2-be22-4ee4-b8da-3e27a9e0491f
+	fromColumn: fact_insurer_period.period_key
+	toColumn: dim_period.period_key
+

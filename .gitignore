@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.pdf
+data/raw_uae/**/*.pdf
+# Power BI Project local caches and per-user settings
+**/.pbi/

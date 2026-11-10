@@ -1,0 +1,50 @@
+WALAACOOPERATIVEINSURANCECOMPANY
+(ASAUDIJOINTSTOCKCOMPANY)
+INTERIMCONDENSEDSTATEMENTOFFINANCIALPOSITION
+ASATMARCH31,2025
+As at As at
+March31,2025December31,2024
+Notes (Unaudited) (Audited)
+SAR"000"
+Assets
+Cashandcashequivalents 563,963 962,268
+Short term deposits 380,804 296,709
+Prepaidexpensesandotherassets 77,604 86,460
+Reinsurance contract assets for non unit-linked business 4.2 861,342 741,129
+Reinsurance contract assets for unit-linked business 4.2 164
+Financialassetsforunit-linked insurancecontracts 524,517 536,185
+Due from shareholders'operations 59,439 1,940
+Statutory deposit 127,558 127,558
+Accrued incomeonstatutorydeposit 1,757 19
+Investments 1,344,079 1,388,722
+Longtermdeposits 410,743 409,741
+Propertyand equipment, net 13 57,429 50,960
+Rightofuseassets,net 10 21,200 23,183
+Intangible assets 12 114,449 116,460
+Goodwill 11 24,415 24,415
+Total assets 4,569,299 4,765,913
+Liabilities and equity
+Liabilities
+Insurance contract liabilities fornon unit-linked business 4.1 1,960,367 2,129,850
+Insurance contract liabilitiesforunit-linked business 4.1 532,409 543,959
+Reinsurance contract liabilities for non unit-linked business 4.2 3,849 3,302
+Reinsurance contract liabilities for unit-linked business 4.2 158
+Accrued expenses and other liabilities 14 147,126 160,313
+Lease liabilities 16,604 21,534
+Accrued income on statutory deposit payable to Insurance Authority 1,757 19
+Duetoinsuranceoperations 59,439 1,940
+Provision forzakatand income tax 19 47,963 42,963
+Provisionforend-of-servicebenefits (EOSB) 38,543 38,015
+Total liabilities 2,808,215 2,941,895
+Equity
+Share capital 20 1,275,583 1,275,583
+Share premium 20 228,280 228,280
+Statutory reserve 92,775 92,775
+Fair value reserve for investments measured at fair value 122,165 117,149
+Retained earnings 49,844 117,794
+Total shareholders' equity 1,768,647 1,831,581
+Remeasurement of EosB relatedto insurance operations (7,563) (7,563)
+Total equity 1,761,084 1,824,018
+Total liabilities and eduity 4,569,299 4,765,913
+ChiefFihAncialOfficer ChiefExecutiveOfficer Board member
+The accmpanying notes 1 to 27 form an integral part of these interim condensed financial statements.

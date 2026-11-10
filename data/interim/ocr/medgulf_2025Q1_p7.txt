@@ -1,0 +1,33 @@
+(A SAUDI JOINT STOCK COMPANY) THE MEDITERRANEAN & GULF COOPERATIVE INSURANCE AND REINSURANCE COMPANY MGI
+CONDENSED INTERIM STATEMENT OF INCOME (UNAUDITED)
+FOR THE THREE-MONTH PERIOD ENDED MARCH 31, 2025
+SAR'000
+March 31, March 31,
+2025 2024
+Notes (Unaudited) (Unaudited)
+Insurance revenue 18 1,000,343 833,625
+Insurance service expense 18 (917,055) (750,073)
+Net expense from reinsurance contract held 18 (73,212) (60,456)
+Insurance service result 10,076 23,096
+Investment income on financial assets at amortised cost 9,270 11,498
+Investment income on financial assets at fair value through profit or loss 1,460 3,460
+Dividend income 1,677 1,181
+Net investment income 12,407 16,139
+Insurance finance expense for insurance contracts issued 19 (396) (8,620)
+Reinsurance finance income for reinsurance contracts held 19 2,414 4,776
+Net insurance finance income / (expense) 2,018 (3,844)
+Net insurance and investment result 24,501 35,391
+Other expenses (1,329) (7,109)
+Share of (loss) / income from associate 10
+Shareholders' general and admin expenses (2,534) (1,021)
+Total other operating (expense) / income (3,863) (8,130)
+Net income for the period before appropriation and before zakat and income tax 20,638 27,261
+Net income attributed to insurance operation
+Net income for the period after appropriation and before zakat and income tax 20,638 27,261
+Zakat and income tax expense 15 (1,000) (1,000)
+Deferred tax 15
+Income attributed to the shareholders after zakat and income tax 19,638 26,261
+Earnings per share (expressed in SAR per share) 20 0.19 0.25
+The accompanying notes 1 to 27 form an integral part of these condensed interim financial statements.
+Mr.RakanAbdullahAbunayyan Mr.UmarAbdulrahmanAlMahmoud Mr. Georgi Markov
+ChairmanoftheBoardofDirectors ChiefExecutiveOfficer ChiefFinancialOfficer

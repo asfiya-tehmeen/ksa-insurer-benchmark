@@ -1,0 +1,44 @@
+forvis
+mazars PKF Al Bassam
+Professional Consultants Chartered Accountants
+INDEPENDENT AUDITORS'REPORT
+TO THE SHAREHOLDERSOF THE MEDITERRANEAN AND GULF COOPERATIVE INSURANCE
+AND REINSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+Key Audit Matters (Continued)
+Key audit matter How our audit addressed the key audit matter
+The estimation of the liability for incurred claims involves a Evaluated the objectivity, skills, qualifications and
+significant degree of judgement. This entails estimating the competence of the independent external actuary
+present value of future cash flows and the risk adjustment and reviewed the terms of the actuary's
+for non-financial risk. The risk adjustment for non-financial engagement with the Company to determine if the
+risk is applied to the present value of the estimated future scope of its work was sufficient for audit purposes; and
+cash flows, and reflects the compensation that the Company
+timing of the cash flows from non-financial risk as the requires for bearing the uncertainty about the amount and International Financial Reporting  Standards the financial statements against the requirements of Assessed the disclosures relating to this matter in
+Company fulfils insurance contracts. The present value of ("IFRS").
+future cash flows is based on the best estimate of the ultimate cost of all claims incurred but not settled at the In addition, with the assistance of our actuarial experts, we performed the following:
+reporting date, whether reported or not, together with the
+related claims handling costs. Evaluated the Company's actuarial practices and
+provisions established, including the actuarial
+The loss component is recognized if at any time during the report issued by management's expert;
+coverage period, feels and circumstances indicate that a Assessed the calculation methods and the models
+group of contracts is onerous. Such loss component is 'pasn
+remeasured at each reporting date as the difference between Assessed key actuarial assumptions including loss
+the amounts of the fulfillment cashflows determined under ratios, claims development factors, mortality rates,
+the general measurement model relating to the future service lapse rates and discount rates;
+and the carrying amount of the liability for remaining Determined if the estimates applied in the current
+coverage without the loss component. and prior year were consistent; and
+Accordingly, this complexity arises from calculating the Developed a point estimate or range based on our
+actuarial best estimate and the margin using historical data understanding of the Company's business and
+which is sensitive to external inputs, such as claims cost evaluated the differences between management's
+inflation and medical trends, as well as the actuarial point estimate and our point estimate or range.
+methodology that is applied and the assumptions on current
+and future events.
+Due to the inherent estimation uncertainty and subjectivity
+involved in the assessment of valuation of the liability for
+incurred claims arising from insurance contracts, we have
+considered this as a key audit matter.
+significant accounting judgements, estimatesand
+assumptions adopted by the Company, involved in the
+initial recognition and subsequent measurement of
+insurance contract liabilities. Also, refer to note 6 for the
+movement in insurance contract liabilities.

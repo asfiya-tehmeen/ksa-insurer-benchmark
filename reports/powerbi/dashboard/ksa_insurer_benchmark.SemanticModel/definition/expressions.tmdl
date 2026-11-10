@@ -1,0 +1,5 @@
+expression DataFolder = "C:\Users\exube\OneDrive\Desktop\resume-builder-main\projects\b-ksa-insurer-benchmark\reports\powerbi" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: f6d29c07-a9ae-44e3-a488-bb5db4a9c06a
+
+	annotation PBI_ResultType = Text
+

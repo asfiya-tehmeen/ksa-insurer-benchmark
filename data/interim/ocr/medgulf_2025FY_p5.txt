@@ -1,0 +1,46 @@
+forvis
+mazars PKF Al Bassam
+Professional Consultants Chartered Accountants
+INDEPENDENT AUDITORS'REPORT
+TO THE SHAREHOLDERS OF THE MEDITERRANEAN AND GULF COOPERATIVE INSURANCE
+AND REINSURANCE COMPANY
+(A SAUDI JOINT STOCK COMPANY)
+Key Audit Matters (Continued)
+Key audit matter How our audit addressed the key audit matter
+Valuation of Goodwill
+As at 31 December 2025, the Company's goodwill We performed the following procedures:
+amounted to SR 723.47 million (2024: SR 480 million), excess of the fair value of net assets and liabilities acquired. which represents the fair value of the consideration paid in objectivity of the management's expert by examining We evaluated the competence, capabilities and
+The increase during the year relates to goodwill of SR their professional qualifications and experiences and
+243.47 million arising from the merger with Buruj assessing their relationship with the entity.
+Cooperative Insurance Company.
+We evaluated the source data of significance to the
+Management reviews goodwill for impairment annually, management's experts work for relevance, completeness
+and assesses the recoverable amount of the cash-generating and accuracy by performing the following procedures:
+unit (or a group of cash-generating units) to which the
+goodwill is related. As per IAS 36, an impairment exists : Inquired of the expert to determine how the expert has
+when the carrying value of an asset or cash-generating unit obtained satisfaction that the data used is relevant,
+exceeds its recoverable amount, which is the higher of its complete and accurate;
+fair value less costs of disposal and its value in use.
+: Reviewed the data for completeness and internal
+As management believes that fair value less cost of disposal consistency; and
+analysis provides higher value compared to value in use,
+therefore, fair value less cost of disposal analysis are used : Agreed the data to supporting documentation.
+for impairment valuation. Management uses its expert to
+perform fair value less cost of disposal analysis that use We involved our experts and assessed the reasonableness
+market approach to determine the need for impairment. In of the calculations and the underlying assumptions,
+arriving at the valuation under the market approach, the including cash flow projections and discount rates used.
+expert applied certain judgments and factors including
+historical median of company's three years share price, We reviewed the annual operating plans and ensured
+market capitalization at closing rate, price to book value they were consistently applied in the goodwill
+multiple, comparable companies' analysis and discounted impairment assessment conducted by the management.
+cash flows analysis.
+We gained an understanding and evaluated methods and
+We considered this as a key audit matter as the estimation assumptions that are significant to the management's
+of recoverable value of the cash-generating unit involves experts work for their relevance and reasonableness by
+the application of management judgment and estimation. reviewing the expert's report and cross checked their
+consistency with other audit evidence.
+Refer to the note 3(g) to the financial statements for material
+accounting policies for goodwill, note 15 for the details of
+goodwill and note 3(p)(iv) which explains the valuation
+methodology used by the Company and critical judgments
+and estimates.

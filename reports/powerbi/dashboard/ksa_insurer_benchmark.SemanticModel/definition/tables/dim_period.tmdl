@@ -1,0 +1,78 @@
+table dim_period
+	lineageTag: cb9f0256-26f8-4e2e-b7fb-618fa0ef6d3e
+
+	column period_key
+		dataType: int64
+		lineageTag: 43fb93ee-183f-4441-806e-e6a31dd7a0fd
+		summarizeBy: none
+		sourceColumn: period_key
+
+	column period_label
+		dataType: string
+		lineageTag: 304ce15b-a5cc-4091-950c-676cd774516e
+		summarizeBy: none
+		sourceColumn: period_label
+		sortByColumn: period_key
+
+	column period_code
+		dataType: string
+		lineageTag: 92bcd5e9-1b7a-42d8-96e9-2c66f871750e
+		summarizeBy: none
+		sourceColumn: period_code
+
+	column year
+		dataType: int64
+		lineageTag: 76282072-1c42-4155-9dc1-843635bd5ab1
+		summarizeBy: none
+		sourceColumn: year
+
+	column quarter
+		dataType: int64
+		lineageTag: ef6ea7f0-2c5b-4604-ac35-63454a99f12d
+		summarizeBy: none
+		sourceColumn: quarter
+
+	column freq
+		dataType: string
+		lineageTag: bc4563a5-fde7-4562-b864-54997c6f0180
+		summarizeBy: none
+		sourceColumn: freq
+
+	column period_end_date
+		dataType: dateTime
+		formatString: Short Date
+		lineageTag: 133d1991-2ba2-402b-a33c-5228eb5ab684
+		summarizeBy: none
+		sourceColumn: period_end_date
+
+	column post_ifrs17
+		dataType: boolean
+		lineageTag: e3bb996a-e444-4fea-a74f-5a7a5d3bdedd
+		summarizeBy: none
+		sourceColumn: post_ifrs17
+
+	column prior_year_key
+		dataType: int64
+		lineageTag: c171e03f-e006-4981-aafc-86b07ee39b37
+		summarizeBy: none
+		sourceColumn: prior_year_key
+
+	column prior_period_key
+		dataType: int64
+		lineageTag: dbed3b2e-385e-4d80-9c78-585528a6ebe9
+		summarizeBy: none
+		sourceColumn: prior_period_key
+
+	partition dim_period = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\dim_period.csv"), [Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Nulls = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, Table.ColumnNames(Headers)),
+				    Typed = Table.TransformColumnTypes(Nulls, {{"period_key", Int64.Type}, {"period_label", type text}, {"period_code", type text}, {"year", Int64.Type}, {"quarter", Int64.Type}, {"freq", type text}, {"period_end_date", type date}, {"post_ifrs17", type logical}, {"prior_year_key", Int64.Type}, {"prior_period_key", Int64.Type}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

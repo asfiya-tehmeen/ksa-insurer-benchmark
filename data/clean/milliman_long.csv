@@ -1,0 +1,481 @@
+insurer,period,item,value,unit,source_file,source_page,source_exhibit,method
+Tawuniya,2025FY,insurance_revenue,21403177.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Tawuniya,2024FY,insurance_revenue,18272957.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Tawuniya,2023FY,insurance_revenue,15265424.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Tawuniya,2022FY,insurance_revenue,11408348.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Bupa,2025FY,insurance_revenue,19303064.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Bupa,2024FY,insurance_revenue,18101517.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Bupa,2023FY,insurance_revenue,15887715.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Bupa,2022FY,insurance_revenue,12873111.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlRajhi Takaful,2025FY,insurance_revenue,5322128.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlRajhi Takaful,2024FY,insurance_revenue,5391459.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlRajhi Takaful,2023FY,insurance_revenue,4236470.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlRajhi Takaful,2022FY,insurance_revenue,2934503.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Medgulf,2025FY,insurance_revenue,4320236.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Medgulf,2024FY,insurance_revenue,3551790.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Medgulf,2023FY,insurance_revenue,3332154.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Medgulf,2022FY,insurance_revenue,2643129.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Walaa,2025FY,insurance_revenue,3104295.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Walaa,2024FY,insurance_revenue,3344580.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Walaa,2023FY,insurance_revenue,2887642.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Walaa,2022FY,insurance_revenue,2572335.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Arabian Shield,2025FY,insurance_revenue,1881892.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Arabian Shield,2024FY,insurance_revenue,1566804.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Arabian Shield,2023FY,insurance_revenue,1127888.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Arabian Shield,2022FY,insurance_revenue,918720.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Wataniya,2025FY,insurance_revenue,1837593.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Wataniya,2024FY,insurance_revenue,1796142.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Wataniya,2023FY,insurance_revenue,1378636.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Wataniya,2022FY,insurance_revenue,835084.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Saudi Re,2025FY,insurance_revenue,1672499.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Saudi Re,2024FY,insurance_revenue,1129966.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Saudi Re,2023FY,insurance_revenue,627187.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Saudi Re,2022FY,insurance_revenue,696998.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+GIG,2025FY,insurance_revenue,1503755.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+GIG,2024FY,insurance_revenue,1463521.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+GIG,2023FY,insurance_revenue,1564749.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+GIG,2022FY,insurance_revenue,1480637.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+MALATH,2025FY,insurance_revenue,1445363.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+MALATH,2024FY,insurance_revenue,1010723.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+MALATH,2023FY,insurance_revenue,934712.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+MALATH,2022FY,insurance_revenue,973092.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Aletihad,2025FY,insurance_revenue,1254553.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Aletihad,2024FY,insurance_revenue,1489646.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Aletihad,2023FY,insurance_revenue,1202169.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Aletihad,2022FY,insurance_revenue,1072869.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+SAICO,2025FY,insurance_revenue,1156884.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+SAICO,2024FY,insurance_revenue,1080637.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+SAICO,2023FY,insurance_revenue,1044519.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+SAICO,2022FY,insurance_revenue,911675.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf Union,2025FY,insurance_revenue,1038197.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf Union,2024FY,insurance_revenue,804752.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf Union,2023FY,insurance_revenue,624483.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf Union,2022FY,insurance_revenue,506772.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+ACIG,2025FY,insurance_revenue,993236.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+ACIG,2024FY,insurance_revenue,883353.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+ACIG,2023FY,insurance_revenue,974681.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+ACIG,2022FY,insurance_revenue,672811.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Mutakamila,2025FY,insurance_revenue,879807.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Mutakamila,2024FY,insurance_revenue,873885.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Mutakamila,2023FY,insurance_revenue,862625.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Mutakamila,2022FY,insurance_revenue,735650.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AICC,2025FY,insurance_revenue,851122.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AICC,2024FY,insurance_revenue,694691.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AICC,2023FY,insurance_revenue,838947.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AICC,2022FY,insurance_revenue,560651.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Sagr,2025FY,insurance_revenue,604414.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Sagr,2024FY,insurance_revenue,503656.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Sagr,2023FY,insurance_revenue,486225.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Sagr,2022FY,insurance_revenue,473348.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Liva (Alamiya),2025FY,insurance_revenue,575028.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Liva (Alamiya),2024FY,insurance_revenue,446127.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Liva (Alamiya),2023FY,insurance_revenue,513629.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Liva (Alamiya),2022FY,insurance_revenue,337947.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Salama,2025FY,insurance_revenue,558377.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Salama,2024FY,insurance_revenue,678479.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Salama,2023FY,insurance_revenue,802288.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Salama,2022FY,insurance_revenue,598351.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+CHUBB,2025FY,insurance_revenue,392966.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+CHUBB,2024FY,insurance_revenue,383410.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+CHUBB,2023FY,insurance_revenue,329438.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+CHUBB,2022FY,insurance_revenue,299356.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlJazira Takaful,2025FY,insurance_revenue,361562.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlJazira Takaful,2024FY,insurance_revenue,339672.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlJazira Takaful,2023FY,insurance_revenue,301954.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+AlJazira Takaful,2022FY,insurance_revenue,220579.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf General,2025FY,insurance_revenue,321752.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf General,2024FY,insurance_revenue,414352.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf General,2023FY,insurance_revenue,315646.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Gulf General,2022FY,insurance_revenue,315686.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Amana Insurance,2025FY,insurance_revenue,282107.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Amana Insurance,2024FY,insurance_revenue,212597.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Amana Insurance,2023FY,insurance_revenue,184638.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Amana Insurance,2022FY,insurance_revenue,237700.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Enaya,2025FY,insurance_revenue,170539.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Enaya,2024FY,insurance_revenue,233508.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Enaya,2023FY,insurance_revenue,250880.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Enaya,2022FY,insurance_revenue,226930.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,23,Exhibit 1,pdfplumber
+Tawuniya,2025FY,gwp,23841612.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Tawuniya,2024FY,gwp,19821546.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Tawuniya,2023FY,gwp,18359520.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Tawuniya,2022FY,gwp,14355513.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Bupa,2025FY,gwp,20491414.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Bupa,2024FY,gwp,18394132.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Bupa,2023FY,gwp,16668744.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Bupa,2022FY,gwp,13896883.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlRajhi Takaful,2025FY,gwp,10573190.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlRajhi Takaful,2024FY,gwp,10909089.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlRajhi Takaful,2023FY,gwp,6022857.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlRajhi Takaful,2022FY,gwp,3470070.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Medgulf,2025FY,gwp,4350444.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Medgulf,2024FY,gwp,3731146.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Medgulf,2023FY,gwp,3135525.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Medgulf,2022FY,gwp,2854602.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Walaa,2025FY,gwp,2967670.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Walaa,2024FY,gwp,3504512.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Walaa,2023FY,gwp,3346161.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Walaa,2022FY,gwp,2641932.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Arabian Shield,2025FY,gwp,2928997.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Arabian Shield,2024FY,gwp,1845233.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Arabian Shield,2023FY,gwp,1297129.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Arabian Shield,2022FY,gwp,1106285.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Saudi Re,2025FY,gwp,2927741.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Saudi Re,2024FY,gwp,2359842.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Saudi Re,2023FY,gwp,1597000.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Saudi Re,2022FY,gwp,1403281.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Wataniya,2025FY,gwp,1984204.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Wataniya,2024FY,gwp,1853992.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Wataniya,2023FY,gwp,1627878.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Wataniya,2022FY,gwp,1042418.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+GIG,2025FY,gwp,1590122.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+GIG,2024FY,gwp,1463642.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+GIG,2023FY,gwp,1541590.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+GIG,2022FY,gwp,1567251.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+SAICO,2025FY,gwp,1253425.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+SAICO,2024FY,gwp,1125115.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+SAICO,2023FY,gwp,1061781.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+SAICO,2022FY,gwp,1039423.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+MALATH,2025FY,gwp,1241240.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+MALATH,2024FY,gwp,1406236.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+MALATH,2023FY,gwp,870589.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+MALATH,2022FY,gwp,944376.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+ACIG,2025FY,gwp,1219862.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+ACIG,2024FY,gwp,844707.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+ACIG,2023FY,gwp,1047403.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+ACIG,2022FY,gwp,830697.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Aletihad,2025FY,gwp,1205502.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Aletihad,2024FY,gwp,1316812.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Aletihad,2023FY,gwp,1481332.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Aletihad,2022FY,gwp,1176701.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf Union,2025FY,gwp,1003026.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf Union,2024FY,gwp,975549.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf Union,2023FY,gwp,690921.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf Union,2022FY,gwp,548431.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AICC,2025FY,gwp,990655.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AICC,2024FY,gwp,617282.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AICC,2023FY,gwp,923581.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AICC,2022FY,gwp,733193.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Mutakamila,2025FY,gwp,972717.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Mutakamila,2024FY,gwp,816261.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Mutakamila,2023FY,gwp,960945.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Mutakamila,2022FY,gwp,848255.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Liva (Alamiya),2025FY,gwp,692327.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Liva (Alamiya),2024FY,gwp,477195.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Liva (Alamiya),2023FY,gwp,522108.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Liva (Alamiya),2022FY,gwp,455529.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Salama,2025FY,gwp,655089.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Salama,2024FY,gwp,526570.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Salama,2023FY,gwp,788970.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Salama,2022FY,gwp,792108.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Sagr,2025FY,gwp,591845.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Sagr,2024FY,gwp,601792.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Sagr,2023FY,gwp,471495.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Sagr,2022FY,gwp,475264.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlJazira Takaful,2025FY,gwp,525996.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlJazira Takaful,2024FY,gwp,425374.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlJazira Takaful,2023FY,gwp,437416.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+AlJazira Takaful,2022FY,gwp,415621.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+CHUBB,2025FY,gwp,426127.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+CHUBB,2024FY,gwp,398010.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+CHUBB,2023FY,gwp,350870.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+CHUBB,2022FY,gwp,303677.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Amana Insurance,2025FY,gwp,340276.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Amana Insurance,2024FY,gwp,226216.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Amana Insurance,2023FY,gwp,173577.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Amana Insurance,2022FY,gwp,230515.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf General,2025FY,gwp,299112.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf General,2024FY,gwp,441692.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf General,2023FY,gwp,330639.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Gulf General,2022FY,gwp,373293.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Enaya,2025FY,gwp,108713.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Enaya,2024FY,gwp,233807.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Enaya,2023FY,gwp,250026.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Enaya,2022FY,gwp,227474.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,24,Exhibit 2,pdfplumber
+Tawuniya,2025FY,net_income,1103114.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Tawuniya,2024FY,net_income,1022025.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Tawuniya,2023FY,net_income,616426.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Tawuniya,2022FY,net_income,302193.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Bupa,2025FY,net_income,1079092.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Bupa,2024FY,net_income,1166002.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Bupa,2023FY,net_income,940163.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Bupa,2022FY,net_income,805117.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlRajhi Takaful,2025FY,net_income,454981.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlRajhi Takaful,2024FY,net_income,332343.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlRajhi Takaful,2023FY,net_income,328061.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlRajhi Takaful,2022FY,net_income,72391.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Saudi Re,2025FY,net_income,140044.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Saudi Re,2024FY,net_income,474812.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Saudi Re,2023FY,net_income,124429.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Saudi Re,2022FY,net_income,76052.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+GIG,2025FY,net_income,126189.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+GIG,2024FY,net_income,98195.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+GIG,2023FY,net_income,128526.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+GIG,2022FY,net_income,15913.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Medgulf,2025FY,net_income,41063.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Medgulf,2024FY,net_income,101994.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Medgulf,2023FY,net_income,201472.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Medgulf,2022FY,net_income,-396870.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlJazira Takaful,2025FY,net_income,39841.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlJazira Takaful,2024FY,net_income,37203.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlJazira Takaful,2023FY,net_income,44254.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AlJazira Takaful,2022FY,net_income,38520.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Wataniya,2025FY,net_income,37090.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Wataniya,2024FY,net_income,103050.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Wataniya,2023FY,net_income,84581.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Wataniya,2022FY,net_income,-27662.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Liva (Alamiya),2025FY,net_income,26640.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Liva (Alamiya),2024FY,net_income,32761.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Liva (Alamiya),2023FY,net_income,11258.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Liva (Alamiya),2022FY,net_income,-42945.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+SAICO,2025FY,net_income,22177.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+SAICO,2024FY,net_income,49318.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+SAICO,2023FY,net_income,71098.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+SAICO,2022FY,net_income,-61647.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+MALATH,2025FY,net_income,21701.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+MALATH,2024FY,net_income,26889.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+MALATH,2023FY,net_income,38188.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+MALATH,2022FY,net_income,-41378.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+CHUBB,2025FY,net_income,10617.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+CHUBB,2024FY,net_income,16293.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+CHUBB,2023FY,net_income,24818.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+CHUBB,2022FY,net_income,12538.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Mutakamila,2025FY,net_income,7406.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Mutakamila,2024FY,net_income,15167.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Mutakamila,2023FY,net_income,36987.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Mutakamila,2022FY,net_income,8576.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Enaya,2025FY,net_income,-6699.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Enaya,2024FY,net_income,-26762.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Enaya,2023FY,net_income,20222.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Enaya,2022FY,net_income,-6355.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Amana Insurance,2025FY,net_income,-13279.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Amana Insurance,2024FY,net_income,12027.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Amana Insurance,2023FY,net_income,25439.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Amana Insurance,2022FY,net_income,-48183.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+ACIG,2025FY,net_income,-41190.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+ACIG,2024FY,net_income,-16483.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+ACIG,2023FY,net_income,63406.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+ACIG,2022FY,net_income,-17344.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Arabian Shield,2025FY,net_income,-43753.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Arabian Shield,2024FY,net_income,70995.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Arabian Shield,2023FY,net_income,66940.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Arabian Shield,2022FY,net_income,-18225.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AICC,2025FY,net_income,-45181.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AICC,2024FY,net_income,30148.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AICC,2023FY,net_income,60462.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+AICC,2022FY,net_income,6200.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Sagr,2025FY,net_income,-70317.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Sagr,2024FY,net_income,31858.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Sagr,2023FY,net_income,42300.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Sagr,2022FY,net_income,-53460.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf Union,2025FY,net_income,-83627.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf Union,2024FY,net_income,43646.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf Union,2023FY,net_income,125037.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf Union,2022FY,net_income,-18300.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Salama,2025FY,net_income,-91564.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Salama,2024FY,net_income,30123.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Salama,2023FY,net_income,51302.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Salama,2022FY,net_income,-38866.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf General,2025FY,net_income,-120488.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf General,2024FY,net_income,-94207.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf General,2023FY,net_income,3532.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Gulf General,2022FY,net_income,-106017.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Walaa,2025FY,net_income,-175084.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Walaa,2024FY,net_income,64303.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Walaa,2023FY,net_income,147977.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Walaa,2022FY,net_income,-68080.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Aletihad,2025FY,net_income,-244444.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Aletihad,2024FY,net_income,49134.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Aletihad,2023FY,net_income,93896.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Aletihad,2022FY,net_income,12702.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,25,Exhibit 3,pdfplumber
+Tawuniya,2025FY,total_assets,21763833.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2024FY,total_assets,20995701.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2023FY,total_assets,18416726.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2022FY,total_assets,15260390.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2025FY,equity,5357500.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2024FY,equity,4478243.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2023FY,equity,3621817.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Tawuniya,2022FY,equity,3132560.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2025FY,total_assets,17102921.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2024FY,total_assets,15575080.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2023FY,total_assets,14438351.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2022FY,total_assets,12114931.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2025FY,equity,5672970.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2024FY,equity,5117997.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2023FY,equity,4675529.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Bupa,2022FY,equity,4200889.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2025FY,total_assets,14183992.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2024FY,total_assets,12087407.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2023FY,total_assets,6824187.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2022FY,total_assets,4331174.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2025FY,equity,2535691.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2024FY,equity,2080425.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2023FY,equity,1722786.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlRajhi Takaful,2022FY,equity,1327360.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2025FY,total_assets,5456783.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2024FY,total_assets,4765913.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2023FY,total_assets,4107249.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2022FY,total_assets,3587872.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2025FY,equity,1672634.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2024FY,equity,1824018.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2023FY,equity,1268455.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Walaa,2022FY,equity,1116436.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2025FY,total_assets,4894739.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2024FY,total_assets,3613538.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2023FY,total_assets,3355638.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2022FY,total_assets,2520772.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2025FY,equity,1632308.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2024FY,equity,1652095.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2023FY,equity,1544237.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Arabian Shield,2022FY,equity,1185172.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2025FY,total_assets,4636715.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2024FY,total_assets,3418420.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2023FY,total_assets,2581631.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2022FY,total_assets,2256070.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2025FY,equity,2191617.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2024FY,equity,1611915.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2023FY,equity,1146822.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Saudi Re,2022FY,equity,1017184.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2025FY,total_assets,3778795.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2024FY,total_assets,2883036.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2023FY,total_assets,3120006.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2022FY,total_assets,3046383.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2025FY,equity,1592869.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2024FY,equity,1028644.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2023FY,equity,917420.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Medgulf,2022FY,equity,706718.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2025FY,total_assets,3050797.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2024FY,total_assets,3088474.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2023FY,total_assets,2812630.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2022FY,total_assets,2533534.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2025FY,equity,1006972.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2024FY,equity,975676.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2023FY,equity,940276.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AlJazira Takaful,2022FY,equity,892718.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2025FY,total_assets,3034707.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2024FY,total_assets,2772598.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2023FY,total_assets,2960458.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2022FY,total_assets,2587332.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2025FY,equity,1201484.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2024FY,equity,1089957.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2023FY,equity,1064840.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+GIG,2022FY,equity,939034.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2025FY,total_assets,2224346.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2024FY,total_assets,1964290.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2023FY,total_assets,2128264.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2022FY,total_assets,1150965.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2025FY,equity,415217.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2024FY,equity,381832.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2023FY,equity,313602.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+SAICO,2022FY,equity,235438.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2025FY,total_assets,2043961.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2024FY,total_assets,2134822.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2023FY,total_assets,1864246.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2022FY,total_assets,1333966.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2025FY,equity,657987.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2024FY,equity,609634.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2023FY,equity,488278.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Wataniya,2022FY,equity,400038.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2025FY,total_assets,1894006.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2024FY,total_assets,2048366.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2023FY,total_assets,2155386.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2022FY,total_assets,2050052.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2025FY,equity,723891.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2024FY,equity,813091.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2023FY,equity,800684.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Mutakamila,2022FY,equity,745680.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2025FY,total_assets,1254534.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2024FY,total_assets,1726034.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2023FY,total_assets,1799925.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2022FY,total_assets,1383531.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2025FY,equity,570982.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2024FY,equity,604938.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2023FY,equity,559916.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+AICC,2022FY,equity,242804.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2025FY,total_assets,1222421.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2024FY,total_assets,1199637.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2023FY,total_assets,924140.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2022FY,total_assets,1020120.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2025FY,equity,462331.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2024FY,equity,432775.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2023FY,equity,390090.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+MALATH,2022FY,equity,354015.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2025FY,total_assets,1201190.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2024FY,total_assets,1550782.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2023FY,total_assets,1869813.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2022FY,total_assets,1515459.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2025FY,equity,449585.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2024FY,equity,711657.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2023FY,equity,671620.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Aletihad,2022FY,equity,536614.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2025FY,total_assets,1157085.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2024FY,total_assets,1195978.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2023FY,total_assets,1067226.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2022FY,total_assets,946809.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2025FY,equity,568943.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2024FY,equity,626699.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2023FY,equity,547992.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf Union,2022FY,equity,415437.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2025FY,total_assets,1056991.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2024FY,total_assets,1019046.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2023FY,total_assets,838685.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2022FY,total_assets,832178.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2025FY,equity,478678.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2024FY,equity,440551.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2023FY,equity,389992.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Liva (Alamiya),2022FY,equity,375157.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2025FY,total_assets,994738.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2024FY,total_assets,894529.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2023FY,total_assets,897720.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2022FY,total_assets,762789.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2025FY,equity,222200.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2024FY,equity,253151.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2023FY,equity,254343.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+ACIG,2022FY,equity,188947.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2025FY,total_assets,808775.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2024FY,total_assets,745506.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2023FY,total_assets,806249.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2022FY,total_assets,666810.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2025FY,equity,269896.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2024FY,equity,254326.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2023FY,equity,204979.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Salama,2022FY,equity,60856.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2025FY,total_assets,790216.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2024FY,total_assets,687820.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2023FY,total_assets,758403.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2022FY,total_assets,700192.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2025FY,equity,476937.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2024FY,equity,454415.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2023FY,equity,423840.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+CHUBB,2022FY,equity,394802.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2025FY,total_assets,651837.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2024FY,total_assets,743509.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2023FY,total_assets,573956.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2022FY,total_assets,567895.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2025FY,equity,342143.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2024FY,equity,400910.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2023FY,equity,198198.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Sagr,2022FY,equity,153458.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2025FY,total_assets,540605.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2024FY,total_assets,473580.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2023FY,total_assets,450911.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2022FY,total_assets,441452.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2025FY,equity,310869.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2024FY,equity,312787.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2023FY,equity,282696.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Amana Insurance,2022FY,equity,251207.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2025FY,total_assets,349043.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2024FY,total_assets,433186.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2023FY,total_assets,490197.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2022FY,total_assets,481552.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2025FY,equity,165114.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2024FY,equity,223906.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2023FY,equity,300393.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Gulf General,2022FY,equity,293654.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2025FY,total_assets,230381.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2024FY,total_assets,269861.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2023FY,total_assets,325127.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2022FY,total_assets,360743.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2025FY,equity,156550.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2024FY,equity,163914.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2023FY,equity,190757.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber
+Enaya,2022FY,equity,170062.0,SAR_thousands,6_4_26_KSA-Industry-update-2025.pdf,26,Exhibit 4,pdfplumber

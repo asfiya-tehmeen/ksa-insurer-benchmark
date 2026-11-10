@@ -1,0 +1,8 @@
+insurer_key,insurer_name,mono_line_medical,lines_of_business,medical_share_min,medical_share_max,first_period,last_period
+alrajhitakaful,Al Rajhi Takaful,False,Motor; Medical/Health; Property & casualty; Protection & savings,0.215,0.353,2024FY,2025Q4
+bupa,Bupa Arabia,True,"Medical only (mono-line, stated in segment note)",1.0,1.0,2023FY,2025Q2
+gig,GIG (Saudi),False,Motor; Property & casualty; Health; Protection,0.171,0.308,2024FY,2025Q4
+malath,Malath,False,Medical; Motor; Property; Engineering; Marine; Others,0.353,0.567,2024FY,2025Q4
+medgulf,Medgulf,False,Medical; Motor; Property & casualty,0.678,0.83,2024FY,2025Q4
+tawuniya,Tawuniya,False,Medical; Motor; Property & casualty; General accident; Travel/Hajj/Umrah; COVID-19; Protection & savings,0.696,0.753,2023Q3,2025Q3
+walaa,Walaa,False,Medical; Motor; Property; Energy; Engineering; Protection & savings (linked / non-linked); Others,0.097,0.217,2024FY,2025Q4

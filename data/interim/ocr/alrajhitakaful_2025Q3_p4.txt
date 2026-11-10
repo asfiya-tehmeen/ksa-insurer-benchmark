@@ -1,0 +1,45 @@
+Al Rajhi Company for Cooperative Insurance
+(A Saudi Joint Stock Company)
+Statement of financial position (SOFP)
+As at 30th September 2025
+30th September 2025 31st December 2024
+Un-Audited Audited
+Note Saudi Riyal () in 000
+Assets
+Cash and bank balances 678,279 720,981
+Investments measured at fair value through profit orloss 1,647,037 1,333,001
+Investments measured at fair value through other comprehensive income 267,514 254,733
+Investments measured atamortized cost, net 2,007,938 2,413,516
+Investment for unit linked contracts 8,750,982 6,289,550
+Insurance contract assets
+Retakaful /reinsurance contract assets 656,588 674,669
+Prepayments and other assets 134,384 59,108
+Statutory deposit, net 99,974 99,974
+Accrued income on statutory deposit 7,020 3,357
+Right-of-use assets, net 31,896 37,485
+Intangible assets, net 264,526 165,515
+Property and equipment, net 33,580 35,514
+Total assets 14,579,718 12,087,407
+Liabilities
+Payables, accruals and other liabilities 181,136 116,457
+Insurance contract liabilities 11,947,005 9,765,345
+Retakaful/reinsurance contract liabilities 601 15,479
+Provision foremployees'end-of-servicebenefits 32,838 33,050
+Provision for zakat 32,170 34,502
+Payables to Insurance Authority 7,020 3,357
+Lease liabilities 31,371 38,792
+Total liabilities 12,232,141 10,006,982
+Equity
+Share capital 10 1,000,000 1,000,000
+Statutory reserve 11 349,486 349,486
+Retained earnings 946,243 658,248
+Treasury share reserve 12 (35,671)
+Employees stock option scheme reserve 13 2,047
+Remeasurement reserve for EOSB (7,831) (7,831)
+Fair value reserve for FvOCl investments 93,303 80,522
+Total equity 2,347,577 2,080,425
+Total liabilities and equity 14,579,718 12,087,407
+Commitments and contingeneies 14 28,801 35,202
+Nabeel Ali Shoaib Saud Ghonem Bin Ghonem Ibrahim A/wazir
+Member-Board (BoD) enief Executive Officer (CEO) Chief Financial Officer (CFO)
+The accompanying notes 1 to 23 form an integral part of these financial statements.

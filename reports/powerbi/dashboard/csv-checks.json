@@ -1,0 +1,144 @@
+{
+  "source": "Independent CSV calculations; live DAX results recorded separately",
+  "counts": {
+    "fact": 138,
+    "insurers": 7,
+    "periods": 15
+  },
+  "orphans": 0,
+  "blankKeys": 0,
+  "q2": [
+    {
+      "insurer": "Al Rajhi Takaful",
+      "lossRatio": 100.9557332746677,
+      "medicalShare": 28.98156225275537
+    },
+    {
+      "insurer": "Bupa Arabia",
+      "lossRatio": 95.09904856461912,
+      "medicalShare": 100
+    },
+    {
+      "insurer": "GIG (Saudi)",
+      "lossRatio": 107.69454904070288,
+      "medicalShare": 24.84263159506555
+    },
+    {
+      "insurer": "Malath",
+      "lossRatio": 84.81062139636181,
+      "medicalShare": 39.14677101579173
+    },
+    {
+      "insurer": "Medgulf",
+      "lossRatio": 96.08999448697703,
+      "medicalShare": 78.10853229752124
+    },
+    {
+      "insurer": "Tawuniya",
+      "lossRatio": 88.55429452063017,
+      "medicalShare": 73.33225792933447
+    },
+    {
+      "insurer": "Walaa",
+      "lossRatio": 138.521879726699,
+      "medicalShare": 13.9579477965618
+    }
+  ],
+  "fy2024": [
+    {
+      "insurer": "Al Rajhi Takaful",
+      "lossRatio": 117.79018886541328
+    },
+    {
+      "insurer": "Bupa Arabia",
+      "lossRatio": 94.0996271196497
+    },
+    {
+      "insurer": "GIG (Saudi)",
+      "lossRatio": 109.11040207789296
+    },
+    {
+      "insurer": "Malath",
+      "lossRatio": 100.14324902070095
+    },
+    {
+      "insurer": "Medgulf",
+      "lossRatio": 99.5622852780252
+    },
+    {
+      "insurer": "Tawuniya",
+      "lossRatio": null
+    },
+    {
+      "insurer": "Walaa",
+      "lossRatio": 110.88536365581221
+    }
+  ],
+  "medgulfOpexNonBlank": 0,
+  "tawuniyaPriorQ4": null,
+  "bupaCombined": 96.02569773572016,
+  "pooledQ2": 93.29995011966022,
+  "unweightedQ2": 101.67516014437967,
+  "peerShareSums": [
+    {
+      "period": "FY2023",
+      "sum": 100
+    },
+    {
+      "period": "2023 Q1",
+      "sum": 100
+    },
+    {
+      "period": "2023 Q2",
+      "sum": 100
+    },
+    {
+      "period": "2023 Q3",
+      "sum": 100
+    },
+    {
+      "period": "2023 Q4",
+      "sum": 100
+    },
+    {
+      "period": "FY2024",
+      "sum": 100
+    },
+    {
+      "period": "2024 Q1",
+      "sum": 100
+    },
+    {
+      "period": "2024 Q2",
+      "sum": 100.00000000000003
+    },
+    {
+      "period": "2024 Q3",
+      "sum": 100.00000000000003
+    },
+    {
+      "period": "2024 Q4",
+      "sum": 99.99999999999999
+    },
+    {
+      "period": "FY2025",
+      "sum": 100
+    },
+    {
+      "period": "2025 Q1",
+      "sum": 100
+    },
+    {
+      "period": "2025 Q2",
+      "sum": 100
+    },
+    {
+      "period": "2025 Q3",
+      "sum": 100
+    },
+    {
+      "period": "2025 Q4",
+      "sum": 100
+    }
+  ]
+}
