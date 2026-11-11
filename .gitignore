@@ -5,3 +5,8 @@ data/raw/*.pdf
 data/raw_uae/**/*.pdf
 # Power BI Project local caches and per-user settings
 **/.pbi/
+
+# Personal notes, old plan versions and AI prompts (local only)
+my_README*.md
+NEXT_PROMPT.md
+*_PROMPT.md
